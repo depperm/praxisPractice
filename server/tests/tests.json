@@ -1,0 +1,317 @@
+{
+  "5354" : {
+    "name": "Special Education: Core Knowledge and Applications",
+    "time_limit": 150,
+    "max_questions": 70,
+    "questions": [
+      {
+        "question": "Which of the following is an accurate statement about what IDEA requires for any IEP?",
+        "answers": ["The IEP must include a multiyear outline of instructional objectives.","The IEP must include a section on assistive devices, regardless of the nature or degree of the student’s disability.","The IEP must be in effect before special education services or related services are provided.","The IEP must not be made available to any school personnel except special education teachers"],
+        "correct_answer": 2,
+        "explanation": "The correct answer is {2}. According to IDEA, an IEP must be in effect before special education and related services are provided to an eligible student. None of the other choices is required. The objectives in an IEP are ordinarily for a single year, so {0} is not correct. {1} is not correct because what IDEA requires is that an IEP include a statement of the services and aids to be provided to the child. For some students with disabilities, this will include assistive devices, but many students with disabilities do not require such devices. Although special education teachers certainly have access to their students’ IEPs, IDEA requires that regular education teachers and other service providers who are responsible for implementing a student’s IEP have access to it as well, so {3} is not correct.",
+        "selectedAnswer": -1
+      },
+      {
+        "question": "Trish is a sixth-grade student who is diagnosed with autism spectrum disorder (ASD). She has difficulty maintaining eye contact and makes impulsive comments during lessons. Which of the following behavioral strategies would best help Trish?",
+        "answers": ["Assigning Trish a peer buddy to help her keep on task","Providing Trish a visual menu of appropriate behaviors","Seating Trish next to the window so she can look outside","Giving Trish high-interest, low-readinglevel assignments"],
+        "correct_answer": 1,
+        "selectedAnswer": -1,
+        "explanation": "The correct answer is {1}. A visual reminder can increase appropriate behavior. {0} is not correct because a peer buddy should not be given the task of keeping another student on task. {2} is not correct because that is not an appropriate strategy for Trish. {3} is not correct because that strategy is not related to the behavior."
+      },
+      {
+        "question": "As an intervention, response cost is best suited for which of the following purposes?",
+        "answers": ["Improving students’ understanding of directions","Increasing the speed of performance in mathematics","Decreasing the incidence of angry outbursts","Decreasing excessive competitiveness among students"],
+        "correct_answer": 2,
+        "selectedAnswer": -1,
+        "explanation": "The correct answer is {2}. Response cost needs to be tied to the occurrence of a specific, observable behavior. The behaviors that are identified in {0}, {1}, and {3} would not benefit from the use of response cost."
+      },
+      {
+        "question": "Which of the following is a nondegenerative disorder that affects motor function as a result of brain injury that occurred before, during, or shortly after birth?",
+        "answers": ["Multiple sclerosis","Cerebral palsy","Muscular dystrophy","Cystic fibrosis"],
+        "correct_answer": 1,
+        "selectedAnswer": -1,
+        "explanation": "The correct answer is {1}. The characteristics that are listed are most commonly associated with cerebral palsy. {0}, {2}, and {3} are not characteristics of the nondegenerative disorder that is defined in the question."
+      },
+      {
+        "question": "To promote the transfer of word attack skills to newspaper reading, a middle school teacher of students with intellectual disabilities is most likely to",
+        "answers": ["prepare teacher-made newspaper articles for the students to read","select articles from the local newspaper for students to read","develop writing exercises using words from the curriculum","prepare worksheet exercises based on single sentences from newspaper articles"],
+        "correct_answer": 1,
+        "selectedAnswer": -1,
+        "explanation": "The correct answer is {1}. One component of successful transfer of learning is the similarity between the situation on which a skill is learned and the situation to which it is to be applied. {0}, {2}, and {3} are not correct because they are activities that would most likely not promote word attack skills."
+      },
+      {
+        "question": "Under the provisions of IDEA, an Individualized Family Service Plan (IFSP) for a 2-year-old child is most likely to include",
+        "answers": ["a budget for early-intervention services","plans for making the transition into preschool","techniques for the family to use in introducing academic subjects","a recommendation of counseling for the child’s siblings"],
+        "correct_answer": 1,
+        "selectedAnswer": -1,
+        "explanation": "The correct answer is {1}. According to IDEA, the IFSP must include plans for making the transition from early intervention services into preschool. {0} is not correct because IFSPs do not include budgets. {2} and {3} are not correct because they are optional and are not likely to be documented in an IFSP."
+      },
+      {
+        "question": "Which of the following is an example of functional language training for a child who is nonverbal?",
+        "answers": ["Rewarding the child for making a vocalization approximating a sound made by the teacher","Rewarding the child for any vocalization made while looking at the teacher","Drilling on bilabial sounds so the child can say “mama”","Teaching the child to point to the sink when he or she wants a drink of water "],
+        "correct_answer": 3,
+        "selectedAnswer": -1,
+        "explanation": "The correct answer is {3}. Functional language training involves giving children a means of influencing and interacting with the environment. {0}, {1}, and {2} are not correct because teaching children to make sounds or imitate words in isolation does not fulfill the goal of functional language training."
+      },
+      {
+        "question": "A well-made teacher-developed test is generally preferred to a standardized achievement test when measuring learning mastery because it",
+        "answers": ["is more likely to yield a true score","has higher interrater reliability","allows comparison of students to each other","has better content validity"],
+        "correct_answer": 3,
+        "selectedAnswer": -1,
+        "explanation": "The correct answer is {3}. Learning mastery generally refers to those lessons taught in the classroom. A teacher-developed test is more likely than a standardized achievement test to assess students’ mastery of those lessons and is therefore more likely to have better content validity. {0} is not correct because all tests should be intended to yield true scores. {1} is not correct because interrater reliability is determined by the degree of agreement among raters. {2} is not correct because that is more characteristic of a normreferenced assessment."
+      },
+      {
+        "question": "In full inclusion settings, the most appropriate role for the special education teacher is to",
+        "answers": ["plan instruction with the general education teacher and co-teach all students in the class","serve as an instructional assistant to the general education teacher","observe the general education teacher at least once a week in order to discuss teaching strategies that seem to work well","manage the behavior of the students receiving special education while the general education teacher presents academic content"],
+        "correct_answer": 0,
+        "selectedAnswer": -1,
+        "explanation": "The correct answer is {0}. In inclusion settings, an appropriate role for the special education teacher is as a co-teacher with the general education teacher. Although the special education teacher may have primary responsibility for behavior management with certain special education students, the teachers should share responsibility for both behavior management and academic content. The special education teacher should not be the assistant to the general education teacher, so {1} is not correct. While the special education teacher may observe the general education teacher and offer recommendations on working with classified students, this is done in the role of collaborating professional, not in the role of evaluator, so {2} is not correct. {3} is not correct because, although the special education teacher may have primary responsibility for behavior management with certain special education students, the teachers should share responsibility for both behavior management and academic content."
+      },
+      {
+        "question": "Which of the following statements best defines the ecological perspective on emotional and behavioral disorders?",
+        "answers": ["Poisons in the physical environment cause emotional and behavioral disorders.","Emotional and behavioral disorders involve interactions between the child and the child’s social environment.","Children with emotional and behavioral disorders need exposure to an everbroadening social environment.","Inclusion settings are less beneficial for students with emotional and behavioral disorders than for students with other types of disabilities."],
+        "correct_answer": 1,
+        "selectedAnswer": -1,
+        "explanation": "The correct answer is {1}. The ecological perspective emphasizes the importance of interactions between the child and the child’s environment in emotional and behavioral disorders. {0} is not correct; the ecological perspective on emotional and behavioral disorders does not refer to the influence of toxins in the physical environment. Neither {2} nor {3} defines this perspective."
+      },
+      {
+        "question": "Using a student’s classwork as a means to evaluate progress and adapt instruction is known as",
+        "answers": ["curriculum-based assessment","standardized achievement testing","summative assessment","guided practice"],
+        "correct_answer": 0,
+        "selectedAnswer": -1,
+        "explanation": "The correct answer is {0}. All student work reflects the curriculum; thus, the assessment is curriculumbased. {1} is incorrect because standardized tests compare students’ data with those of other students in the same age-group. {2} is incorrect because summative assessments are used to determine whether the student is meeting the curriculum requirements; it is not used to guide instruction. {3} is incorrect because guided practice is a teaching strategy used to provide instruction, not evaluate progress."
+      },
+      {
+        "question": "Which of the following is the best rationale for using task analysis in instructing students with disabilities?",
+        "answers": ["Instruction is delivered in steps that are easily achievable and that promote student success.","Students can eventually learn to analyze assigned tasks themselves.","Students learn classification skills by identifying similar aspects of different kinds of tasks.","Instruction can be delivered effectively to many students at once without need for individualization."],
+        "correct_answer": 0,
+        "selectedAnswer": -1,
+        "explanation": "The correct answer is {0}. Instruction that is provided in steps that are easily achievable and that promote student success are two key justifications for the use of task analysis. {1} is incorrect because, although the skill it describes is a possible benefit of using task analysis, it is not the basic rationale for the use of task analysis. {2} is not correct because the learning of classification skills is not a primary objective of task analysis. {3} is not correct because individualization of instruction is always important in instructing students with disabilities."
+      },
+      {
+        "question": "Mary is a seventh-grade student who has a specific learning disability. Her mathematics achievement score indicates that she has a stanine of 9. Which of the following mathematics classes is most appropriate for Mary?",
+        "answers": ["Remedial mathematics","Functional mathematics","Standard mathematics","Advanced mathematics"],
+        "correct_answer": 3,
+        "selectedAnswer": -1,
+        "explanation": "The correct answer is {3}. Mary’s achievement score indicates high mathematical ability; 9 is the highest possible stanine score. Based on the information presented, the most appropriate placement is the advanced class. {0}, {1}, and {2} are not appropriate based on her high mathematical ability. Despite her learning disabilities, it is entirely possible that she could, perhaps with support, undertake an advanced class in an area of strength."
+      },
+      {
+        "question": "Jodeen is a 7-year-old who has been evaluated and found to have a mild expressive language delay. Her hearing is normal, and her functioning in all areas other than expressive language is age appropriate. Which of the following placements would be most appropriate for Jodeen?",
+        "answers": ["A self-contained special education class with speech and language services","A part-time placement in a resource room for developmental and oral reading","A full-time general education placement with speech and language services","A full-time general education placement with an emphasis on reading support"],
+        "correct_answer": 2,
+        "selectedAnswer": -1,
+        "explanation": "The correct answer is {2}. Since Jodeen’s functioning is age appropriate in most respects, it is probable that she could work at the level of the class in a general education setting if she were provided with appropriate support services to address her expressive language deficit. There is no clear justification for a full-time special education setting, as in {0}, as the initial placement for a young child with a very specific expressive language delay and no other disability. There is no evidence that Jodeen needs support for reading, so {1} and {3} are not correct."
+      },
+      {
+        "question": "Which of the following techniques is likely to be most successful in helping learners with intellectual disabilities to retain previously acquired skills?",
+        "answers": ["Scheduling frequent peer tutoring sessions","Acknowledging appropriate behavior regularly","Providing periodic review of lessons","Allowing longer independent practice periods"],
+        "correct_answer": 2,
+        "selectedAnswer": -1,
+        "explanation": "The correct answer is {2}. Once a skill has been mastered, the teacher can best assure its retention by providing additional meaningful learning situations in which the student can recall and use the skill. {0}, {1}, and {2} are not correct because they would not assist learners in retaining previously acquired skills."
+      },
+      {
+        "question": "Which of the following is most clearly an example of a student using inappropriate syntax?",
+        "answers": ["Saying, “I see football game”","Saying, “Wa wa” as a substitute for water","Saying, “Me sister shoes new happy”","Saying, “He drinked his milk”"],
+        "correct_answer": 2,
+        "selectedAnswer": -1,
+        "explanation": "The correct answer is {2}. Using inappropriate syntax involves not following rules for the correct arrangement of word sequence."
+      },
+      {
+        "question": "Which of the following conditions is frequently attributable to Trisomy 21?",
+        "answers": ["Down syndrome","Phenylketonuria (PKU)","Klinefelter syndrome","Turner syndrome"],
+        "correct_answer": 0,
+        "selectedAnswer": -1,
+        "explanation": "The correct answer is {0}. There are several possible causes of Down syndrome, with the most common being trisomy 21, the failure of one pair of parental chromosomes to separate at conception. {1} is not correct because PKU is caused by a defect in the gene that helps create the enzyme needed to break down phenylalanine. {2} is not correct because Klinefelter syndrome occurs when a boy is born with one or more extra X chromosomes. {3} is not correct because Turner syndrome is a chromosomal condition that alters development in females."
+      },
+      {
+        "question": "Shania is a tenth-grade student classified with a specific learning disability (SLD). She receives direct reading instruction in decoding skills to facilitate word recognition of vocabulary words. Shania’s instruction represents",
+        "answers": ["a remedial approach","a compensatory approach","a metacognitive strategy","scripted reading instruction"],
+        "correct_answer": 0,
+        "selectedAnswer": -1,
+        "explanation": "The correct answer is {0}. Remedial instruction is one-on-one or small-group instruction that focuses on the needs of the individual student. {0}, {1}, and {2}, are not characteristic of the type of instruction that is being provided."
+      },
+      {
+        "question": "An IEP must include which of the following components?",
+        "answers": ["The present levels of academic achievement and functional performance","A record of past student performance","A description of the student’s intellectual functioning","Suggestions for parental involvement"],
+        "correct_answer": 0,
+        "selectedAnswer": -1,
+        "explanation": "The correct answer is {0}. As mandated in IDEA, a Present Levels of Academic Achievement and Functional Performance (PLAAFP) statement is a required component of any IEP."
+      },
+      {
+        "question": "On the basis of such cases as Hudson v. Rowley (1982), the courts have determined that “appropriate education” means that",
+        "answers": ["students will have all the resources and related services needed to fulfill their potential","services that maximize achievement will be provided as long as the cost is not prohibitive","learners with disabilities will have the same achievement opportunities as peers","interpreters will be provided for all deaf children"],
+        "correct_answer": 2,
+        "selectedAnswer": -1,
+        "explanation": "The correct answer is {2}. IDEA states that each student must be placed in the least restrictive environment in which the unique needs of the student can be met."
+      },
+      {
+        "question": "Which of the following supports is most likely to help Beth, a middle-school student with autism spectrum disorder (ASD), be successful in her new placement?",
+        "answers": ["Allowing Beth to attend school for a halfday for the first month","Providing Beth with a visual schedule of daily activities","Taking Beth on a tour of the school so that she can become familiar with the layout of the classrooms","Providing Beth with time away from her classmates when she has an outburst"],
+        "correct_answer": 1,
+        "selectedAnswer": -1,
+        "explanation": "The correct answer is {1}. Research has indicated that children with autism spectrum disorder prefer routines and structure in daily academic life. Using the visual schedule will help Beth anticipate the routine and become more accustomed to the new environment. {0} is not correct because reducing a child’s school attendance to a half-day would not help her adjust to the new environment. {2} is not correct because taking Beth on a tour of the school would be useful but it is not a long-term support like a visual schedule. {3} is not correct because providing time away would not help Beth adjust to her school. Instead, this would limit interactions with peers and teachers, which would inhibit the adjustment process."
+      },
+      {
+        "question": "Which of the following is legally required to initiate a formal evaluation for a student suspected of having a specific learning disability?",
+        "answers": ["Signed parental permission","Verbal agreement provided by the parents","Teacher referral","Physician referral"],
+        "correct_answer": 0,
+        "selectedAnswer": -1,
+        "explanation": "The correct answer is {0}. Written consent by a parent or guardian is required to refer a student for a formal evaluation to determine whether special education services are appropriate. {1} is incorrect because the consent must be written, not verbal. {2} is incorrect because although school personnel can initiate a referral, written consent must be given by a parent/guardian to follow through with the screening. {3} is incorrect because a physician’s input can be valuable; however, it does not initiate the referral process or provide consent for screening."
+      },
+      {
+        "question": "What is the teacher’s primary role when conflicts arise during unstructured playtime in a prekindergarten inclusion setting?",
+        "answers": ["To help children develop appropriate ways to resolve conflict","To teach children the essential features of good manners and etiquette","To reconsider the need for free play in the prekindergarten schedule","To intervene and discipline children as soon as conflict occurs during an activity"],
+        "correct_answer": 0,
+        "selectedAnswer": -1,
+        "explanation": "The correct answer is {0}. Early childhood is a time to learn respectful communication and social skills through play and structured activities. {1} is incorrect because good manners and etiquette vary by culture and are best taught in informal home situations. {2} is incorrect because prekindergarten students need free play, which should not be restricted due to common conflicts. {3} is incorrect because teacher intervention is not always needed when conflicts arise; children should be encouraged and supported in solving basic conflicts."
+      },
+      {
+        "question": "Students with learning disabilities are more likely than students without disabilities to exhibit which of the following?",
+        "answers": ["Clear dominance of the left brain for learning","Deficits in long-term memory retrieval","Selective attention disorders","Characteristics of giftedness in artistic expression"],
+        "correct_answer": 2,
+        "selectedAnswer": -1,
+        "explanation": "The correct answer is {2}. Students with learning disabilities are likely to lag behind other children in their ability to identify and focus on the key aspects of a task while disregarding the less important aspects of that task. {0} is incorrect because it has not been proven that students with learning disabilities are more likely than other students to have either left-brain or right-brain dominance for learning. {1} is incorrect because students with learning disabilities do not necessarily have difficulty with long-term memory retrieval. {3} is incorrect because there is no clear evidence to suggest that students with learning disabilities are more gifted than others in artistic expression."
+      },
+      {
+        "question": "Section 504 of the Rehabilitation Act of 1973 provides students who attend a school that receives federal funds with protection against which of the following?",
+        "answers": ["Discrimination based solely on an individual’s disability","Discrimination based solely on an individual’s gender or sexual orientation","Discrimination based solely on an individual’s citizenship status","Discrimination based solely on an individual’s socioeconomic status"],
+        "correct_answer": 0,
+        "selectedAnswer": -1,
+        "explanation": "The correct answer is {0}. The premise of Section 504 of the Rehabilitation Act is that a qualified individual cannot be denied participation because of a disability if the school receives federal funds. {1}, {2}, and {3} are incorrect because Section 504 of the Rehabilitation Act does not relate to discrimination based on gender, citizenship, or socioeconomic status."
+      },
+      {
+        "question": "What is the most commonly co-occurring type of disability associated with emotional and behavioral disorders?",
+        "answers": ["A speech and language processing disorder","Attention-deficit/hyperactivity disorder (ADHD)","Autism spectrum disorder (ASD)","Obsessive-compulsive disorder (OCD)"],
+        "correct_answer": 1,
+        "selectedAnswer": -1,
+        "explanation": "The correct answer is {1}. Many children with emotional and behavioral disorders act impulsively, have short attention spans, and often exhibit anxiety, thus allowing the co-occurring classification of ADHD. {0}, {2}, and {3} are incorrect because although they may be comorbid with an EBD, none of them are the most commonly co-occurring disability."
+      },
+      {
+        "question": "Which of the following would be an important daily-living skill for a high school student with an intellectual disability?",
+        "answers": ["Knowing the multiplication table","Using a microwave oven","Identifying the states on a map","Stating the main idea of a paragraph"],
+        "correct_answer": 1,
+        "selectedAnswer": -1,
+        "explanation": "The correct answer is {1}. Being able to heat up food would allow the student a measure of independence. {0}, {2}, and {3} are incorrect because they are not daily-living skills."
+      },
+      {
+        "question": "Jen, a sixth-grade student, receives special education services under the category of specific learning disability. Jen’s IEP states that written assignments will be completed using word processing and speech recognition software. Which of the following is most likely to promote successful use of assistive technology?",
+        "answers": ["Limiting the amount of written homework","Providing software for home use","Assigning keyboarding homework","Allowing choice of topic for written assignments"],
+        "correct_answer": 1,
+        "selectedAnswer": -1,
+        "explanation": "The correct answer is {1}. The student will be able to practice using the same programs at school and home, thus reinforcing her writing skills. {0} is incorrect because limiting homework does not help her to use the writing programs. {2} is incorrect because although typing practice is useful, it does not help her to use the programs, one of which is voice recognition software and does not require typing. {3} is incorrect because the accommodation of choice will not promote more successful use of assistive technology."
+      },
+      {
+        "question": "Jan is a child with a visual impairment. Which of the following is the best way for Jan’s parents to assess her recreation and leisure skills?",
+        "answers": ["A classroom visit","A conversation with a school counselor","A checklist from the expanded core curriculum","An evaluation by a trained specialist in visual disabilities"],
+        "correct_answer": 2,
+        "selectedAnswer": -1,
+        "explanation": "The correct answer is {2}. Recreation and leisure skills are a part of the expanded core curriculum (ECC) for visually impaired children and Jan’s parents can use a developmental checklist to ensure that Jan is learning these skills. {0} is incorrect because a classroom visit might provide information about Jan’s academic and social skills, but would be unlikely to focus on recreation and leisure skills. {1} is incorrect because the counselor might provide information on improving recreation and leisure skills, but would not be able to describe Jan’s current recreation and leisure skills. {3} is incorrect because a trained specialist is not likely to provide any additional information than the parents could gather using a checklist from the expanded core curriculum."
+      },
+      {
+        "question": "Which of the following activities is the best example of a summative assessment?",
+        "answers": ["An end of chapter test","Writing sentences using spelling words","Completing a homework assignment","Practicing how to write the directions for baking a cake"],
+        "correct_answer": 0,
+        "selectedAnswer": -1,
+        "explanation": "The correct answer is {0}. Summative assessments are given to test student learning relative to the curriculum, and a chapter test assesses knowledge of the entire chapter. {1} is incorrect because writing sentences using spelling words is an example of an instructional activity, not a summative assessment. {2} is incorrect because homework is used as a follow-up to classroom instruction. {3} is incorrect because practicing a skill is part of instruction, not assessment."
+      },
+      {
+        "question": "Compared to a child with normal development, a child with spina bifida would be most likely to demonstrate deficits in",
+        "answers": ["Language development","Social development","Intellectual development","Motor development"],
+        "correct_answer": 0,
+        "selectedAnswer": -1,
+        "explanation": "The correct answer is {3}. The effects of spina bifida vary in severity with the type of spina bifida and the individual who has it, but the most likely effect is on motor development as the spinal column does not fuse completely, leaving an opening. {0} is incorrect because spina bifida without hydrocephalus does not cause brain damage, and as long as intellectual developement is not affected, language development is not affected (hydrocephalus is caused by cerebrospinal fluid backed up into the brain, that isn't relieved by shunting). {1} is incorrect because spina bifida without hydrocephalus does not cause brain damage. {2} is incorrect because it does not affect social development."
+      },
+      {
+        "question": "The school psychologist is explaining assessment results to Clifford’s parents and other IEP team members. She says that Clifford has difficulties with planning, organizing, keeping track of time, relating a current lesson to earlier learning, and that he talks out of turn in class. These all relate most to deficits in",
+        "answers": ["Sequencing","Self-regulation","Memory","Executive function"],
+        "correct_answer": 0,
+        "selectedAnswer": -1,
+        "explanation": "The correct answer is {3}. Executive function includes planning, organizing, keeping track of time, keeping track of multiple things, relating earlier learning to current learning, and other higher cognitive activities. {0} is incorrect because sequencing involves arranging items in the correct order (chronological, logical, etc.), and is also one specific aspect of executive function. {1} is incorrect because self-regulation relates only to talking out of turn in class, and is just one component of executive function. {2} is incorrect because memory, or retaining and retrieving information, requires using mental strategies that are included in executive function."
+      },
+      {
+        "question": "Keith has a behavior disorder and expressive language deficits. His teacher wants to evaluate his progress toward his IEP goals for behavior. Which of the following would be the most appropriate method?",
+        "answers": ["Norm-referenced testing","The teacher interviews Keith","Observational assessment","Curriculum-based testing"],
+        "correct_answer": 0,
+        "selectedAnswer": -1,
+        "explanation": "The correct answer is {}. {} is incorrect because. {} is incorrect because. {} is incorrect because."
+      },
+      {
+        "question": "Jim has mild cognitive impairment. On annual standardized tests, his scores averaged 20 percent below national averages this year and 35 percent below last year. He scored 90 percent correct on his performance-based assessments. He has met or exceeded his IEP goals to increase his criterion-referenced classroom test scores by an average of 10 percent over last year. Based on this information, which of the following is correct?",
+        "answers": ["Jim’s instruction may or may not be effective; more information is needed to decide","Jim’s instruction is effective because he is demonstrating progress and meeting goals","Jim’s instruction is effective within the school, but needs work for standardized tests","Jim’s instruction is not effective enough because he scored well below national norms"],
+        "correct_answer": 0,
+        "selectedAnswer": -1,
+        "explanation": "The correct answer is {}. {} is incorrect because. {} is incorrect because. {} is incorrect because."
+      },
+      {
+        "question": "In the IEP process, which of the following takes place first?",
+        "answers": ["Development","Identification","Eligibility","Referral"],
+        "correct_answer": 0,
+        "selectedAnswer": -1,
+        "explanation": "The correct answer is {}. {} is incorrect because. {} is incorrect because. {} is incorrect because."
+      },
+      {
+        "question": "In teaching basic mathematics, the following actions by teachers will benefit all students. However, which one is most likely to be needed more specifically for students with special needs in a general education classroom?",
+        "answers": ["Giving intensive, direct instruction in mathematics to individual students","Carefully planning the coverage and order of instructional math content","Judicious selection and application of the specific instructional strategies","Designing practice activities that take student special needs into account"],
+        "correct_answer": 0,
+        "selectedAnswer": -1,
+        "explanation": "The correct answer is {}. {} is incorrect because. {} is incorrect because. {} is incorrect because."
+      },
+      {
+        "question": "Mr. Stewart’s students show good reading comprehension of any given paragraph in any chapter of their textbook, but they have trouble organizing, recalling, or applying the main points of a chapter. Which of the following is the simplest, most direct and efficient way to help?",
+        "answers": ["Point out and explain the text’s informational structure and features","Create separate handouts with simplified organization of main points","Identify, select, procure, duplicate, and distribute graphic organizers","Create and deliver a Power Point® presentation for each text chapter"],
+        "correct_answer": 0,
+        "selectedAnswer": -1,
+        "explanation": "The correct answer is {}. {} is incorrect because. {} is incorrect because. {} is incorrect because."
+      },
+      {
+        "question": "Among the following, a child with which type of disability is likely to be best at focusing attention on one thing for a long time?",
+        "answers": ["Down syndrome","Attention deficit disorder","Developmental delay","Autism spectrum disorder"],
+        "correct_answer": 0,
+        "selectedAnswer": -1,
+        "explanation": "The correct answer is {}. {} is incorrect because. {} is incorrect because. {} is incorrect because."
+      },
+      {
+        "question": "What was the first major federal law guaranteeing all children aged 5-21 the right to a public education?",
+        "answers": ["EHA","LRE","FAPE","IDEA"],
+        "correct_answer": 0,
+        "selectedAnswer": -1,
+        "explanation": "The correct answer is {}. {} is incorrect because. {} is incorrect because. {} is incorrect because."
+      },
+      {
+        "question": "Relative to public schools, the basic legal and ethical principles on which both FERPA and the student record Privacy Rule of HIPAA were founded",
+        "answers": ["Overlap in some areas","Differ in important ways","Are completely unrelated","Are the same principles"],
+        "correct_answer": 0,
+        "selectedAnswer": -1,
+        "explanation": "The correct answer is {}. {} is incorrect because. {} is incorrect because. {} is incorrect because."
+      }
+    ]
+  },
+  "5622": {
+    "name": "Principles of Learning and Teaching: Grades K-6",
+    "time_limit": 150,
+    "max_questions": 70,
+    "questions": [
+    ]
+  },
+  "5203": {
+    "name": "Teaching Reading: Elementary Education",
+    "time_limit": 180,
+    "max_questions": 90,
+    "questions": [
+    ]
+  },
+  "7801": {
+    "name": "Elementary Education: Content Knowledge for Teaching",
+    "time_limit": 330,
+    "max_questions": 217,
+    "questions": [
+    ]
+  },
+  "5543": {
+    "name": "Special Education: Core Knowledge and Mild to Moderate Applications",
+    "time_limit": 150,
+    "max_questions": 90,
+    "questions": [
+    ]
+  }
+}
