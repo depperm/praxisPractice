@@ -47,8 +47,8 @@ export default {
       select: null,
       numQuestions: 1,
       valid: true,
-      testNums: ['5354','5622','5203','7801','5543'],
-      testNames: ['Special Education: Core Knowledge and Applications','Principles of Learning and Teaching: Grades K-6','Teaching Reading: Elementary Education','Elementary Education: Content Knowledge for Teaching','Special Education: Core Knowledge and Mild to Moderate Applications'],
+      testNums: ['5354', '5622', '5203', '7801', '5543'],
+      testNames: ['Special Education: Core Knowledge and Applications', 'Principles of Learning and Teaching: Grades K-6', 'Teaching Reading: Elementary Education', 'Elementary Education: Content Knowledge for Teaching', 'Special Education: Core Knowledge and Mild to Moderate Applications'],
       selectedTest: null
 
     }

@@ -84,7 +84,6 @@ export default {
       totalScore: 0,
       totalQuestions: 30,
       tests: {}
-      }
     }
   },
   methods: {
