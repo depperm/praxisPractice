@@ -41,6 +41,7 @@
 
 <script>
 import TestService from '@/services/TestService'
+import { serverBus } from '../main'
 export default {
   data () {
     return {
@@ -61,6 +62,7 @@ export default {
         try {
           let info = {}
           info.id = this.testNums[this.testNames.indexOf(this.select)]
+          serverBus.$emit('changeTest', this.select)
           info.q = this.numQuestions
           const response = (await TestService.get_test(info)).data
           console.log(this.testQs)
@@ -83,6 +85,9 @@ export default {
       this.selectedTest = this.testNums[this.testNames.indexOf(this.select)]
       console.log('changeId:' + this.selectedTest + ' ' + this.numQuestions)
     }
+  },
+  created () {
+    serverBus.$emit('changeTest', '')
   }
 }
 </script>

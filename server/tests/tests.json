@@ -6,9 +6,9 @@
     "questions": [
       {
         "question": "Which of the following is an accurate statement about what IDEA requires for any IEP?",
-        "answers": ["The IEP must include a multiyear outline of instructional objectives.","The IEP must include a section on assistive devices, regardless of the nature or degree of the student’s disability.","The IEP must be in effect before special education services or related services are provided.","The IEP must not be made available to any school personnel except special education teachers"],
+        "answers": ["The IEP must include a multiyear outline of instructional objectives.","The IEP must include a section on assistive devices, regardless of the nature or degree of the student's disability.","The IEP must be in effect before special education services or related services are provided.","The IEP must not be made available to any school personnel except special education teachers"],
         "correct_answer": 2,
-        "explanation": "The correct answer is {2}. According to IDEA, an IEP must be in effect before special education and related services are provided to an eligible student. None of the other choices is required. The objectives in an IEP are ordinarily for a single year, so {0} is not correct. {1} is not correct because what IDEA requires is that an IEP include a statement of the services and aids to be provided to the child. For some students with disabilities, this will include assistive devices, but many students with disabilities do not require such devices. Although special education teachers certainly have access to their students’ IEPs, IDEA requires that regular education teachers and other service providers who are responsible for implementing a student’s IEP have access to it as well, so {3} is not correct.",
+        "explanation": "The correct answer is {2}. According to IDEA, an IEP must be in effect before special education and related services are provided to an eligible student. None of the other choices is required. The objectives in an IEP are ordinarily for a single year, so {0} is not correct. {1} is not correct because what IDEA requires is that an IEP include a statement of the services and aids to be provided to the child. For some students with disabilities, this will include assistive devices, but many students with disabilities do not require such devices. Although special education teachers certainly have access to their students' IEPs, IDEA requires that regular education teachers and other service providers who are responsible for implementing a student's IEP have access to it as well, so {3} is not correct.",
         "selectedAnswer": -1
       },
       {
@@ -20,7 +20,7 @@
       },
       {
         "question": "As an intervention, response cost is best suited for which of the following purposes?",
-        "answers": ["Improving students’ understanding of directions","Increasing the speed of performance in mathematics","Decreasing the incidence of angry outbursts","Decreasing excessive competitiveness among students"],
+        "answers": ["Improving students' understanding of directions","Increasing the speed of performance in mathematics","Decreasing the incidence of angry outbursts","Decreasing excessive competitiveness among students"],
         "correct_answer": 2,
         "selectedAnswer": -1,
         "explanation": "The correct answer is {2}. Response cost needs to be tied to the occurrence of a specific, observable behavior. The behaviors that are identified in {0}, {1}, and {3} would not benefit from the use of response cost."
@@ -41,14 +41,14 @@
       },
       {
         "question": "Under the provisions of IDEA, an Individualized Family Service Plan (IFSP) for a 2-year-old child is most likely to include",
-        "answers": ["a budget for early-intervention services","plans for making the transition into preschool","techniques for the family to use in introducing academic subjects","a recommendation of counseling for the child’s siblings"],
+        "answers": ["a budget for early-intervention services","plans for making the transition into preschool","techniques for the family to use in introducing academic subjects","a recommendation of counseling for the child's siblings"],
         "correct_answer": 1,
         "selectedAnswer": -1,
         "explanation": "The correct answer is {1}. According to IDEA, the IFSP must include plans for making the transition from early intervention services into preschool. {0} is not correct because IFSPs do not include budgets. {2} and {3} are not correct because they are optional and are not likely to be documented in an IFSP."
       },
       {
         "question": "Which of the following is an example of functional language training for a child who is nonverbal?",
-        "answers": ["Rewarding the child for making a vocalization approximating a sound made by the teacher","Rewarding the child for any vocalization made while looking at the teacher","Drilling on bilabial sounds so the child can say “mama”","Teaching the child to point to the sink when he or she wants a drink of water "],
+        "answers": ["Rewarding the child for making a vocalization approximating a sound made by the teacher","Rewarding the child for any vocalization made while looking at the teacher","Drilling on bilabial sounds so the child can say \"mama\"","Teaching the child to point to the sink when he or she wants a drink of water "],
         "correct_answer": 3,
         "selectedAnswer": -1,
         "explanation": "The correct answer is {3}. Functional language training involves giving children a means of influencing and interacting with the environment. {0}, {1}, and {2} are not correct because teaching children to make sounds or imitate words in isolation does not fulfill the goal of functional language training."
@@ -58,7 +58,7 @@
         "answers": ["is more likely to yield a true score","has higher interrater reliability","allows comparison of students to each other","has better content validity"],
         "correct_answer": 3,
         "selectedAnswer": -1,
-        "explanation": "The correct answer is {3}. Learning mastery generally refers to those lessons taught in the classroom. A teacher-developed test is more likely than a standardized achievement test to assess students’ mastery of those lessons and is therefore more likely to have better content validity. {0} is not correct because all tests should be intended to yield true scores. {1} is not correct because interrater reliability is determined by the degree of agreement among raters. {2} is not correct because that is more characteristic of a normreferenced assessment."
+        "explanation": "The correct answer is {3}. Learning mastery generally refers to those lessons taught in the classroom. A teacher-developed test is more likely than a standardized achievement test to assess students' mastery of those lessons and is therefore more likely to have better content validity. {0} is not correct because all tests should be intended to yield true scores. {1} is not correct because interrater reliability is determined by the degree of agreement among raters. {2} is not correct because that is more characteristic of a normreferenced assessment."
       },
       {
         "question": "In full inclusion settings, the most appropriate role for the special education teacher is to",
@@ -69,17 +69,17 @@
       },
       {
         "question": "Which of the following statements best defines the ecological perspective on emotional and behavioral disorders?",
-        "answers": ["Poisons in the physical environment cause emotional and behavioral disorders.","Emotional and behavioral disorders involve interactions between the child and the child’s social environment.","Children with emotional and behavioral disorders need exposure to an everbroadening social environment.","Inclusion settings are less beneficial for students with emotional and behavioral disorders than for students with other types of disabilities."],
+        "answers": ["Poisons in the physical environment cause emotional and behavioral disorders.","Emotional and behavioral disorders involve interactions between the child and the child's social environment.","Children with emotional and behavioral disorders need exposure to an everbroadening social environment.","Inclusion settings are less beneficial for students with emotional and behavioral disorders than for students with other types of disabilities."],
         "correct_answer": 1,
         "selectedAnswer": -1,
-        "explanation": "The correct answer is {1}. The ecological perspective emphasizes the importance of interactions between the child and the child’s environment in emotional and behavioral disorders. {0} is not correct; the ecological perspective on emotional and behavioral disorders does not refer to the influence of toxins in the physical environment. Neither {2} nor {3} defines this perspective."
+        "explanation": "The correct answer is {1}. The ecological perspective emphasizes the importance of interactions between the child and the child's environment in emotional and behavioral disorders. {0} is not correct; the ecological perspective on emotional and behavioral disorders does not refer to the influence of toxins in the physical environment. Neither {2} nor {3} defines this perspective."
       },
       {
-        "question": "Using a student’s classwork as a means to evaluate progress and adapt instruction is known as",
+        "question": "Using a student's classwork as a means to evaluate progress and adapt instruction is known as",
         "answers": ["curriculum-based assessment","standardized achievement testing","summative assessment","guided practice"],
         "correct_answer": 0,
         "selectedAnswer": -1,
-        "explanation": "The correct answer is {0}. All student work reflects the curriculum; thus, the assessment is curriculumbased. {1} is incorrect because standardized tests compare students’ data with those of other students in the same age-group. {2} is incorrect because summative assessments are used to determine whether the student is meeting the curriculum requirements; it is not used to guide instruction. {3} is incorrect because guided practice is a teaching strategy used to provide instruction, not evaluate progress."
+        "explanation": "The correct answer is {0}. All student work reflects the curriculum; thus, the assessment is curriculumbased. {1} is incorrect because standardized tests compare students' data with those of other students in the same age-group. {2} is incorrect because summative assessments are used to determine whether the student is meeting the curriculum requirements; it is not used to guide instruction. {3} is incorrect because guided practice is a teaching strategy used to provide instruction, not evaluate progress."
       },
       {
         "question": "Which of the following is the best rationale for using task analysis in instructing students with disabilities?",
@@ -93,14 +93,14 @@
         "answers": ["Remedial mathematics","Functional mathematics","Standard mathematics","Advanced mathematics"],
         "correct_answer": 3,
         "selectedAnswer": -1,
-        "explanation": "The correct answer is {3}. Mary’s achievement score indicates high mathematical ability; 9 is the highest possible stanine score. Based on the information presented, the most appropriate placement is the advanced class. {0}, {1}, and {2} are not appropriate based on her high mathematical ability. Despite her learning disabilities, it is entirely possible that she could, perhaps with support, undertake an advanced class in an area of strength."
+        "explanation": "The correct answer is {3}. Mary's achievement score indicates high mathematical ability; 9 is the highest possible stanine score. Based on the information presented, the most appropriate placement is the advanced class. {0}, {1}, and {2} are not appropriate based on her high mathematical ability. Despite her learning disabilities, it is entirely possible that she could, perhaps with support, undertake an advanced class in an area of strength."
       },
       {
         "question": "Jodeen is a 7-year-old who has been evaluated and found to have a mild expressive language delay. Her hearing is normal, and her functioning in all areas other than expressive language is age appropriate. Which of the following placements would be most appropriate for Jodeen?",
         "answers": ["A self-contained special education class with speech and language services","A part-time placement in a resource room for developmental and oral reading","A full-time general education placement with speech and language services","A full-time general education placement with an emphasis on reading support"],
         "correct_answer": 2,
         "selectedAnswer": -1,
-        "explanation": "The correct answer is {2}. Since Jodeen’s functioning is age appropriate in most respects, it is probable that she could work at the level of the class in a general education setting if she were provided with appropriate support services to address her expressive language deficit. There is no clear justification for a full-time special education setting, as in {0}, as the initial placement for a young child with a very specific expressive language delay and no other disability. There is no evidence that Jodeen needs support for reading, so {1} and {3} are not correct."
+        "explanation": "The correct answer is {2}. Since Jodeen's functioning is age appropriate in most respects, it is probable that she could work at the level of the class in a general education setting if she were provided with appropriate support services to address her expressive language deficit. There is no clear justification for a full-time special education setting, as in {0}, as the initial placement for a young child with a very specific expressive language delay and no other disability. There is no evidence that Jodeen needs support for reading, so {1} and {3} are not correct."
       },
       {
         "question": "Which of the following techniques is likely to be most successful in helping learners with intellectual disabilities to retain previously acquired skills?",
@@ -111,7 +111,7 @@
       },
       {
         "question": "Which of the following is most clearly an example of a student using inappropriate syntax?",
-        "answers": ["Saying, “I see football game”","Saying, “Wa wa” as a substitute for water","Saying, “Me sister shoes new happy”","Saying, “He drinked his milk”"],
+        "answers": ["Saying, \"I see football game\"","Saying, \"Wa wa\" as a substitute for water","Saying, \"Me sister shoes new happy\"","Saying, \"He drinked his milk\""],
         "correct_answer": 2,
         "selectedAnswer": -1,
         "explanation": "The correct answer is {2}. Using inappropriate syntax involves not following rules for the correct arrangement of word sequence."
@@ -124,7 +124,7 @@
         "explanation": "The correct answer is {0}. There are several possible causes of Down syndrome, with the most common being trisomy 21, the failure of one pair of parental chromosomes to separate at conception. {1} is not correct because PKU is caused by a defect in the gene that helps create the enzyme needed to break down phenylalanine. {2} is not correct because Klinefelter syndrome occurs when a boy is born with one or more extra X chromosomes. {3} is not correct because Turner syndrome is a chromosomal condition that alters development in females."
       },
       {
-        "question": "Shania is a tenth-grade student classified with a specific learning disability (SLD). She receives direct reading instruction in decoding skills to facilitate word recognition of vocabulary words. Shania’s instruction represents",
+        "question": "Shania is a tenth-grade student classified with a specific learning disability (SLD). She receives direct reading instruction in decoding skills to facilitate word recognition of vocabulary words. Shania's instruction represents",
         "answers": ["a remedial approach","a compensatory approach","a metacognitive strategy","scripted reading instruction"],
         "correct_answer": 0,
         "selectedAnswer": -1,
@@ -132,13 +132,13 @@
       },
       {
         "question": "An IEP must include which of the following components?",
-        "answers": ["The present levels of academic achievement and functional performance","A record of past student performance","A description of the student’s intellectual functioning","Suggestions for parental involvement"],
+        "answers": ["The present levels of academic achievement and functional performance","A record of past student performance","A description of the student's intellectual functioning","Suggestions for parental involvement"],
         "correct_answer": 0,
         "selectedAnswer": -1,
         "explanation": "The correct answer is {0}. As mandated in IDEA, a Present Levels of Academic Achievement and Functional Performance (PLAAFP) statement is a required component of any IEP."
       },
       {
-        "question": "On the basis of such cases as Hudson v. Rowley (1982), the courts have determined that “appropriate education” means that",
+        "question": "On the basis of such cases as Hudson v. Rowley (1982), the courts have determined that \"appropriate education\" means that",
         "answers": ["students will have all the resources and related services needed to fulfill their potential","services that maximize achievement will be provided as long as the cost is not prohibitive","learners with disabilities will have the same achievement opportunities as peers","interpreters will be provided for all deaf children"],
         "correct_answer": 2,
         "selectedAnswer": -1,
@@ -149,17 +149,17 @@
         "answers": ["Allowing Beth to attend school for a halfday for the first month","Providing Beth with a visual schedule of daily activities","Taking Beth on a tour of the school so that she can become familiar with the layout of the classrooms","Providing Beth with time away from her classmates when she has an outburst"],
         "correct_answer": 1,
         "selectedAnswer": -1,
-        "explanation": "The correct answer is {1}. Research has indicated that children with autism spectrum disorder prefer routines and structure in daily academic life. Using the visual schedule will help Beth anticipate the routine and become more accustomed to the new environment. {0} is not correct because reducing a child’s school attendance to a half-day would not help her adjust to the new environment. {2} is not correct because taking Beth on a tour of the school would be useful but it is not a long-term support like a visual schedule. {3} is not correct because providing time away would not help Beth adjust to her school. Instead, this would limit interactions with peers and teachers, which would inhibit the adjustment process."
+        "explanation": "The correct answer is {1}. Research has indicated that children with autism spectrum disorder prefer routines and structure in daily academic life. Using the visual schedule will help Beth anticipate the routine and become more accustomed to the new environment. {0} is not correct because reducing a child's school attendance to a half-day would not help her adjust to the new environment. {2} is not correct because taking Beth on a tour of the school would be useful but it is not a long-term support like a visual schedule. {3} is not correct because providing time away would not help Beth adjust to her school. Instead, this would limit interactions with peers and teachers, which would inhibit the adjustment process."
       },
       {
         "question": "Which of the following is legally required to initiate a formal evaluation for a student suspected of having a specific learning disability?",
         "answers": ["Signed parental permission","Verbal agreement provided by the parents","Teacher referral","Physician referral"],
         "correct_answer": 0,
         "selectedAnswer": -1,
-        "explanation": "The correct answer is {0}. Written consent by a parent or guardian is required to refer a student for a formal evaluation to determine whether special education services are appropriate. {1} is incorrect because the consent must be written, not verbal. {2} is incorrect because although school personnel can initiate a referral, written consent must be given by a parent/guardian to follow through with the screening. {3} is incorrect because a physician’s input can be valuable; however, it does not initiate the referral process or provide consent for screening."
+        "explanation": "The correct answer is {0}. Written consent by a parent or guardian is required to refer a student for a formal evaluation to determine whether special education services are appropriate. {1} is incorrect because the consent must be written, not verbal. {2} is incorrect because although school personnel can initiate a referral, written consent must be given by a parent/guardian to follow through with the screening. {3} is incorrect because a physician's input can be valuable; however, it does not initiate the referral process or provide consent for screening."
       },
       {
-        "question": "What is the teacher’s primary role when conflicts arise during unstructured playtime in a prekindergarten inclusion setting?",
+        "question": "What is the teacher's primary role when conflicts arise during unstructured playtime in a prekindergarten inclusion setting?",
         "answers": ["To help children develop appropriate ways to resolve conflict","To teach children the essential features of good manners and etiquette","To reconsider the need for free play in the prekindergarten schedule","To intervene and discipline children as soon as conflict occurs during an activity"],
         "correct_answer": 0,
         "selectedAnswer": -1,
@@ -174,7 +174,7 @@
       },
       {
         "question": "Section 504 of the Rehabilitation Act of 1973 provides students who attend a school that receives federal funds with protection against which of the following?",
-        "answers": ["Discrimination based solely on an individual’s disability","Discrimination based solely on an individual’s gender or sexual orientation","Discrimination based solely on an individual’s citizenship status","Discrimination based solely on an individual’s socioeconomic status"],
+        "answers": ["Discrimination based solely on an individual's disability","Discrimination based solely on an individual's gender or sexual orientation","Discrimination based solely on an individual's citizenship status","Discrimination based solely on an individual's socioeconomic status"],
         "correct_answer": 0,
         "selectedAnswer": -1,
         "explanation": "The correct answer is {0}. The premise of Section 504 of the Rehabilitation Act is that a qualified individual cannot be denied participation because of a disability if the school receives federal funds. {1}, {2}, and {3} are incorrect because Section 504 of the Rehabilitation Act does not relate to discrimination based on gender, citizenship, or socioeconomic status."
@@ -194,18 +194,18 @@
         "explanation": "The correct answer is {1}. Being able to heat up food would allow the student a measure of independence. {0}, {2}, and {3} are incorrect because they are not daily-living skills."
       },
       {
-        "question": "Jen, a sixth-grade student, receives special education services under the category of specific learning disability. Jen’s IEP states that written assignments will be completed using word processing and speech recognition software. Which of the following is most likely to promote successful use of assistive technology?",
+        "question": "Jen, a sixth-grade student, receives special education services under the category of specific learning disability. Jen's IEP states that written assignments will be completed using word processing and speech recognition software. Which of the following is most likely to promote successful use of assistive technology?",
         "answers": ["Limiting the amount of written homework","Providing software for home use","Assigning keyboarding homework","Allowing choice of topic for written assignments"],
         "correct_answer": 1,
         "selectedAnswer": -1,
         "explanation": "The correct answer is {1}. The student will be able to practice using the same programs at school and home, thus reinforcing her writing skills. {0} is incorrect because limiting homework does not help her to use the writing programs. {2} is incorrect because although typing practice is useful, it does not help her to use the programs, one of which is voice recognition software and does not require typing. {3} is incorrect because the accommodation of choice will not promote more successful use of assistive technology."
       },
       {
-        "question": "Jan is a child with a visual impairment. Which of the following is the best way for Jan’s parents to assess her recreation and leisure skills?",
+        "question": "Jan is a child with a visual impairment. Which of the following is the best way for Jan's parents to assess her recreation and leisure skills?",
         "answers": ["A classroom visit","A conversation with a school counselor","A checklist from the expanded core curriculum","An evaluation by a trained specialist in visual disabilities"],
         "correct_answer": 2,
         "selectedAnswer": -1,
-        "explanation": "The correct answer is {2}. Recreation and leisure skills are a part of the expanded core curriculum (ECC) for visually impaired children and Jan’s parents can use a developmental checklist to ensure that Jan is learning these skills. {0} is incorrect because a classroom visit might provide information about Jan’s academic and social skills, but would be unlikely to focus on recreation and leisure skills. {1} is incorrect because the counselor might provide information on improving recreation and leisure skills, but would not be able to describe Jan’s current recreation and leisure skills. {3} is incorrect because a trained specialist is not likely to provide any additional information than the parents could gather using a checklist from the expanded core curriculum."
+        "explanation": "The correct answer is {2}. Recreation and leisure skills are a part of the expanded core curriculum (ECC) for visually impaired children and Jan's parents can use a developmental checklist to ensure that Jan is learning these skills. {0} is incorrect because a classroom visit might provide information about Jan's academic and social skills, but would be unlikely to focus on recreation and leisure skills. {1} is incorrect because the counselor might provide information on improving recreation and leisure skills, but would not be able to describe Jan's current recreation and leisure skills. {3} is incorrect because a trained specialist is not likely to provide any additional information than the parents could gather using a checklist from the expanded core curriculum."
       },
       {
         "question": "Which of the following activities is the best example of a summative assessment?",
@@ -222,67 +222,11 @@
         "explanation": "The correct answer is {3}. The effects of spina bifida vary in severity with the type of spina bifida and the individual who has it, but the most likely effect is on motor development as the spinal column does not fuse completely, leaving an opening. {0} is incorrect because spina bifida without hydrocephalus does not cause brain damage, and as long as intellectual developement is not affected, language development is not affected (hydrocephalus is caused by cerebrospinal fluid backed up into the brain, that isn't relieved by shunting). {1} is incorrect because spina bifida without hydrocephalus does not cause brain damage. {2} is incorrect because it does not affect social development."
       },
       {
-        "question": "The school psychologist is explaining assessment results to Clifford’s parents and other IEP team members. She says that Clifford has difficulties with planning, organizing, keeping track of time, relating a current lesson to earlier learning, and that he talks out of turn in class. These all relate most to deficits in",
+        "question": "The school psychologist is explaining assessment results to Clifford's parents and other IEP team members. She says that Clifford has difficulties with planning, organizing, keeping track of time, relating a current lesson to earlier learning, and that he talks out of turn in class. These all relate most to deficits in",
         "answers": ["Sequencing","Self-regulation","Memory","Executive function"],
         "correct_answer": 0,
         "selectedAnswer": -1,
         "explanation": "The correct answer is {3}. Executive function includes planning, organizing, keeping track of time, keeping track of multiple things, relating earlier learning to current learning, and other higher cognitive activities. {0} is incorrect because sequencing involves arranging items in the correct order (chronological, logical, etc.), and is also one specific aspect of executive function. {1} is incorrect because self-regulation relates only to talking out of turn in class, and is just one component of executive function. {2} is incorrect because memory, or retaining and retrieving information, requires using mental strategies that are included in executive function."
-      },
-      {
-        "question": "Keith has a behavior disorder and expressive language deficits. His teacher wants to evaluate his progress toward his IEP goals for behavior. Which of the following would be the most appropriate method?",
-        "answers": ["Norm-referenced testing","The teacher interviews Keith","Observational assessment","Curriculum-based testing"],
-        "correct_answer": 0,
-        "selectedAnswer": -1,
-        "explanation": "The correct answer is {}. {} is incorrect because. {} is incorrect because. {} is incorrect because."
-      },
-      {
-        "question": "Jim has mild cognitive impairment. On annual standardized tests, his scores averaged 20 percent below national averages this year and 35 percent below last year. He scored 90 percent correct on his performance-based assessments. He has met or exceeded his IEP goals to increase his criterion-referenced classroom test scores by an average of 10 percent over last year. Based on this information, which of the following is correct?",
-        "answers": ["Jim’s instruction may or may not be effective; more information is needed to decide","Jim’s instruction is effective because he is demonstrating progress and meeting goals","Jim’s instruction is effective within the school, but needs work for standardized tests","Jim’s instruction is not effective enough because he scored well below national norms"],
-        "correct_answer": 0,
-        "selectedAnswer": -1,
-        "explanation": "The correct answer is {}. {} is incorrect because. {} is incorrect because. {} is incorrect because."
-      },
-      {
-        "question": "In the IEP process, which of the following takes place first?",
-        "answers": ["Development","Identification","Eligibility","Referral"],
-        "correct_answer": 0,
-        "selectedAnswer": -1,
-        "explanation": "The correct answer is {}. {} is incorrect because. {} is incorrect because. {} is incorrect because."
-      },
-      {
-        "question": "In teaching basic mathematics, the following actions by teachers will benefit all students. However, which one is most likely to be needed more specifically for students with special needs in a general education classroom?",
-        "answers": ["Giving intensive, direct instruction in mathematics to individual students","Carefully planning the coverage and order of instructional math content","Judicious selection and application of the specific instructional strategies","Designing practice activities that take student special needs into account"],
-        "correct_answer": 0,
-        "selectedAnswer": -1,
-        "explanation": "The correct answer is {}. {} is incorrect because. {} is incorrect because. {} is incorrect because."
-      },
-      {
-        "question": "Mr. Stewart’s students show good reading comprehension of any given paragraph in any chapter of their textbook, but they have trouble organizing, recalling, or applying the main points of a chapter. Which of the following is the simplest, most direct and efficient way to help?",
-        "answers": ["Point out and explain the text’s informational structure and features","Create separate handouts with simplified organization of main points","Identify, select, procure, duplicate, and distribute graphic organizers","Create and deliver a Power Point® presentation for each text chapter"],
-        "correct_answer": 0,
-        "selectedAnswer": -1,
-        "explanation": "The correct answer is {}. {} is incorrect because. {} is incorrect because. {} is incorrect because."
-      },
-      {
-        "question": "Among the following, a child with which type of disability is likely to be best at focusing attention on one thing for a long time?",
-        "answers": ["Down syndrome","Attention deficit disorder","Developmental delay","Autism spectrum disorder"],
-        "correct_answer": 0,
-        "selectedAnswer": -1,
-        "explanation": "The correct answer is {}. {} is incorrect because. {} is incorrect because. {} is incorrect because."
-      },
-      {
-        "question": "What was the first major federal law guaranteeing all children aged 5-21 the right to a public education?",
-        "answers": ["EHA","LRE","FAPE","IDEA"],
-        "correct_answer": 0,
-        "selectedAnswer": -1,
-        "explanation": "The correct answer is {}. {} is incorrect because. {} is incorrect because. {} is incorrect because."
-      },
-      {
-        "question": "Relative to public schools, the basic legal and ethical principles on which both FERPA and the student record Privacy Rule of HIPAA were founded",
-        "answers": ["Overlap in some areas","Differ in important ways","Are completely unrelated","Are the same principles"],
-        "correct_answer": 0,
-        "selectedAnswer": -1,
-        "explanation": "The correct answer is {}. {} is incorrect because. {} is incorrect because. {} is incorrect because."
       }
     ]
   },
@@ -291,6 +235,108 @@
     "time_limit": 150,
     "max_questions": 70,
     "questions": [
+      {
+        "question": "Classroom management research findings suggest that one of the most effective ways to maximize the amount of time elementary school children spend on academic activities is for the teacher to do which of the following?",
+        "answers": ["Plan for, teach, and enforce routines for transition times and classroom housekeeping tasks","Assign homework three times a week in the major subjects","Assign individual reading on new topics before discussing the topic in class","Introduce new material in a lecture followed immediately by a questioning session on the material"],
+        "correct_answer": 0,
+        "explanation": "The correct answer is {0}. Too much time is often spent supervising students in relation to personal needs and everyday housekeeping tasks, and interruptions for this purpose are a major source of discontinuity in academic activities. Teachers can minimize these problems by preparing students to handle routine activities on their own. Choice {1}, {2}, and {3} are not classroom management strategies."
+      },
+      {
+        "question": "Which of the following kinds of instruction is frequently contrasted with discovery learning?",
+        "answers": ["Simulation games","Expository teaching","Mastery learning","Schema training"],
+        "correct_answer": 1,
+        "explanation": "The correct answer is {1}. Discovery learning allows students to explore material on their own and arrive at conclusions. In expository teaching, students are presented with subject matter organized by the teacher. Choices {0}, {2}, and {3} are not typically contrasted with discovery learning."
+      },
+      {
+        "question": "During a visit to a second-grade classroom, a student teacher observed a child spending the time allotted for a worksheet either looking out the window or doodling on his paper. When the student teacher asked the child if he needed help on the assignment, he said no. When asked why he wasn't doing it, he pointed to another student and said, \"She does all her work fast and when she's done, she gets more work.\n\nThe boy's reaction suggests which of the following about his classroom?\"",
+        "answers": ["A routine has been established for students who are having trouble finishing an assignment to ask the teacher for assistance","A routine for rewarding students who finish work promptly is not in place","Students must work alone on seatwork, without consulting other students","Students who finish work before the whole class is finished must not interrupt the students who are still working"],
+        "correct_answer": 1,
+        "explanation": "The correct answer is {1}. Students are quick to learn classroom routines for work incentives and penalties, as the student's remark implies. No routine has been established to reward students who finish their work early. Choice {0} is incorrect because the boy is not having difficulty completing his assignment. Choice {2} is incorrect because there is not enough information in the question to determine if students may or may not collaborate on the assignment. Choice {3} is incorrect because the boy has not completed the assignment."
+      },
+      {
+        "question": "For developing the language abilities of kindergartners, which of the following would be most appropriate way to follow up the writing of a group essay?",
+        "answers": ["Prepare a list of the most difficult words for the children to learn to spell","Show the children how to revise the sentences to make them longer and more complex structurally","Have the children print the essay for themselves, then practice writing it, using cursive letters","Read the essay aloud, in unison with the children, then leave it displayed where they can examine it"],
+        "correct_answer": 3,
+        "explanation": "The correct answer is {3}. The most appropriate follow-up is one that motivates children toward continued expression. Displaying the essay serves as a form of publication and allows the children to reread the essay on their own terms. Reading in unison provides a nonthreatening way for the children to practie the language skills they have learned. Choices {0}, {1}, and {2} are not developmentally approprate activities for students in kindergarten."
+      },
+      {
+        "question": "Dan is one of two students in Ms. Kane's fifthgrade class under the \"least restrictive environment\" provision. Dan has a very limited attention span and says he usually cannot follow what is going on in class. One of the IEP objectives for Dan is \"Given a 10-12 minute lecture/oral lesson, Dan will take apropriate notes as judged by the teacher.\"\n\nWhich of the following strategies has the best potential to help Dan meet this goal by the end of the year?",
+        "answers": ["Ms. Kane grades Dan's notes on lecture/oral lesson material and incorporates the grade into Dan's overall class grade","Ms. Kane allows Dan to tape-record the lecture/oral lesson, rather than taking notes, and listen to the tape at home to learn the material","Ms. Kane provides Dan with a graphic organizer, or a skeleton outline, of the lecture so Dan can fill in the missing information as it is provided","Ms. Kane seats Dan with a student he says he likes and allows Dan to ask that student questions as the lecture/oral lesson proceeds"],
+        "correct_answer": 2,
+        "explanation": "The correct answer is {2}. This question asks you to identify an instructional strategy that provides the student with a clearly structured activity to keep him on task to reach the IEP objectives. The information provided about Dan tells you that the strategy the teacher chooses must help Dan in two ways: it must keep his attention from wandering and it must help him to follow what is going on in the lesson. In addition, the strategy needs to provide the teacher with assessment information to use in evaluating the student's progress."
+      },
+      {
+        "question": "Daryl, a sixth-grader, receives a score report from a standardized mathematics test taken by his entire sixth-grade class that includes both a grade-equivalent score and a national percentile rank. Daryl's grade-equivalent score is 8.2. His national percentile rank is 87.\n\nDaryl's grade-equivalent score indicates that which of the following is true?",
+        "answers": ["Daryl did as well on his test as an average eighth-grade student in the second month of school would do on an eighth-grade test","Daryl can do the mathematics expected of an average eighth-grader who is in the second month of the school year","Daryl may well encounter difficulties in the later stages of the eighth-grade mathematics curriculum","Daryl did as well on this test as an average eihth-grader in the second month of school would do on the same test"],
+        "correct_answer": 3,
+        "explanation": "The correct answer is {3}. A grade-equivalent score is a score that compares the raw score attained by the average student in the norm group for the particular test and then reports the grade and month level of that norm group comparison. In this case, Daryl's raw score was equivalent to the average raw score of all eighth-graders in the second month of school who were part of the norm group."
+      },
+      {
+        "question": "Which of the following is best for a teacher to do when establishing classroom rules?",
+        "answers": ["Mention the rules once at the beginning of the school year","State the rules in a foreful way to establish authority","Explain why the established rules are necessary for enhancing student cooperation","Create as many rules as possible to guarantee order and control in the classroom"],
+        "correct_answer": 2,
+        "explanation": "The correct answer is {2}. Students are more cooperative with rules that make sense to them than they are with seemingly arbitray regulations. Choice {0} is incorrect because classroom rules and procedures should be modeled and practiced with students. Choice {1} is incorrect because merely stating the rules will not establish authority and is likely to foster a negative learning environment. Choice {3} is incorrect because creating many rules for the classroom is likely to overwhelm students and contribute to a negative learning environment."
+      },
+      {
+        "question": "A teacher shares with students the following scenario and asks the class to discuss the ethical decision-making implications of the situation.\n\nBob asks his mother for $40 so that he can take a trip with the school hiking club. His mother tells him that if he contributes $20 of his own money, she will contribute the other $20. A week before the trip, Bob tells his mother that he will need $30 from her because he was only able to save $10. She gives him the $30. Bob later tells his younger sister that he actually had $20 but lied to their mother so that he could have pocket money for the trip. What should Bob's siter do?\n\nA student at Kohlberg's stage 4 of moral development would most likely say that the sister should",
+        "answers": ["make a deal with Bob that if he will keep a secret for his sister in the future, she will not tell their mother","tell their mother because the sister could also be punished if Bob gets caught","urge Bob to confess his action to their mother because he broke the rules by lying, and people should never tell lies","encourage Bob to confess his action to their mother because he must be responsible for his own behavior"],
+        "correct_answer": 2,
+        "explanation": "The correct answer is {2}. Stage 4 is defined by having generally rigid moral ideals and a desire to be honorable."
+      },
+      {
+        "question": "Which of the following descriptors best characterizes creativity?",
+        "answers": ["The student's ideas are generated in spurts, few of which tend to be relevant to solving a specific problem","The student's solutions are generally based on established perspectives or frameworks","The student's solutions prove viable, although they give the initial appearance of novelty","The student's abilities typically apply uniformly across all learning domains, not just one"],
+        "correct_answer": 2,
+        "explanation": "The correct answer is {2}. The student's solutions often seem novel at first but later prove to be viable. Choices {0}, {1}, and {3} express common misconceptions about creativity and creative thinking."
+      },
+      {
+        "question": "Which of the following is a type of test score used to show a student's relative position among a group of students in the same grade who are tested at the same time?",
+        "answers": ["Percent correct","Percentile rank","Raw score","Composite score"],
+        "correct_answer": 1,
+        "explanation": "The correct answer is {1}. A student's percentile rank indicates the percent of students in a particular group that received lower raw scores on a test than the student did. It shows the student's relative position, or rank, among a group of students in the same grade who were tested at the same time of year (fall, midyear, or spring). Thus, for example, if a student earned a percentile rank of 72 on a science test, he or she scored higher than 72 percent of the students in the group, and conversely, 28 percent of students in the group scored higher than the student. Percentile ranks range from 1 to 99."
+      },
+      {
+        "question": "Which of the following best defines a portfolio assessment?",
+        "answers": ["An explicit set of criteria used for assessing a particular type of work or performance that usually includes  potential levels of achievement for each criterion","A systematic collection of materials selected to demonstrate a person's level of knowledg, skill, or ability in a particular area","An informal written record for tracking a child's social, emotional, physical, and cognitive development","A tool used to gather information that can help teachers make sense of educational situations, gauge the effectiveness of educational practices, and plan for improvement"],
+        "correct_answer": 1,
+        "explanation": "The correct answer is {1}. A portfolio is a collection of multiple types of assessments and artifacts to illustrate a student's learning over time. {0} defines a rubric, {2} defines anecdotal notes, and {3} defines observation."
+      },
+      {
+        "question": "According to the Equal Access Act (20 USC Sec. 4071), which of the following correctly states a criterion under which a school would be deemed to offer a fair opportunity to students who wish to conduct meetings as limited open forums?",
+        "answers": ["All students in the school must attend the meetings unless excused for specific religious or cultural reasons","The school must fund all expenses for each student organization holding meetings on school property","The meetings must not interfere with the orderly conduct of educational activities within the school","A person not affiliated with the school must direct, conduct, control, or regularly attend activities of student groups"],
+        "correct_answer": 2,
+        "explanation": "The correct answer is {2}. This choice correctly states a criterion under which the school would be directed by law to offer fair opportunity for equal access. Choices {0}, {1}, and {3} directly contradict language in the law."
+      },
+      {
+        "question": "Which of the following professional strategies is most likely to result in improved student motivation and academic performance?",
+        "answers": ["Each teacher employs the classroom management techniques with which he or she feels most comfortable","Teachers collaborate to formulate, select, and monitor classroom management techniques and other classroomprocedures based on successful experiences","A subset of teachers determines the rules to be given to the other teachers who then impose the rules on their classes","Teachers elect a colleague to represent them in working with the administration to determine a set of five best practices to be used at each teacher's discretion"],
+        "correct_answer": 1,
+        "explanation": "The correct answer is {1}. An organized, focused, collaborative effort to share ideas, determine actions, and monitor results is most likely to meet with success. {0} keeps the teachers isolated and engaged in habits that are not effective. {2} describes a strategy that discourages student motivation and engagement and is not an effective way for teachers to share ideas. Similarly, having one representative work out a narrow set of ideas with administrators who are not directly engaged in teaching the students may create a barrier to developing ideas and sharing effective practices. Additionally, if there is no expectation for an identified practice to be tried widely, there will be no way to see whether it works."
+      },
+      {
+        "question": "Which of the following correctly states an aspect of effective reflective practice?",
+        "answers": ["Peer coaching should be done sparingly because it can interfere with a coach's own reflective potential","Reflective practice, to remain truly professional, should exclude student input that challenges teaching practices","The reflection process should be free of links to conceptual frameworks that limit inquiry and problem solving","Teacher coaches should create an environment of trust and build a context for reflection that is unique to every learning situation"],
+        "correct_answer": 3,
+        "explanation": "The correct answer is {3}. Trust and practical flexibility are essential to teaching contexts that enhance reflective practice. Student input {1} would be useful for improving practice. Conceptual frameworks {2} can focus and provide discipline for the reflective process. Peer coaching {0} is useful in reflective practice."
+      },
+      {
+        "question": "Which of the following is the best practice for promoting a positive learning environment?",
+        "answers": ["Subtracting class points for the day according to students' behavior at regular intervals","Providing students with inquiry-based cooperative learning activities","Conducting lessons in lecture format","Creating class rules without student input"],
+        "correct_answer": 1,
+        "explanation": "The correct answer is {1}. Inquiry-based learning is a best practice that engages students in the learning process. Students are able to have choice and control in an inquiry-based setting. Choices {0}, {2}, and {3} are strategies initiated by the teacher. Conducting lessons using a lecture format does not actively engage students. Creating classroom rules without input from students {3} is more likely to contribute to a negative classroom environment."
+      },
+      {
+        "question": "Which of the following best describes instruction using Vygotsky's zone of proximal development (ZPD)?",
+        "answers": ["Giving second-grade students a work sheet of two-digit addition problems to complete independently","Giving first-grade students a book to read independently at their instructional reading level","Using a book at a group of first-grade students' independent reading level in a guided reading group","Using manipulative cubes with second-grade students to help them learn regrouping in addition"],
+        "correct_answer": 3,
+        "explanation": "The correct answer is {3}. Vygotsky's zone of proximal development begins with what students can do independently, in this case single-digit addition, and provides guidance to help students learn a new skill, two-digit additon with regrouping. The teacher is providing support until the student is able to complete the tak independently. Choices {0}, {1}, and {3} describe activities that the students can complete independently. Therefore, the students do not need teacher guidance to master these skills."
+      },
+      {
+        "question": "Which of the following characteristics is considered a strength of a flexible ability group?",
+        "answers": ["Reducing student stigmatization by teaching the same curriculum","Providing opportunities for more able students to assist less able peers in learning","Providing student-specific instruction in areas where students struggle","Maintaining high level of expectations for all students"],
+        "correct_answer": 2,
+        "explanation": "The correct answer is {2}. Flexible ability grouping allows teachers to provide instruction at the level of the students in the group. Students can move in or out of groups as their ability level changes. Choices {0}, {1}, and {3} do not describe a benefit of flexible ability grouping in the classroom."
+      }
     ]
   },
   "5203": {
@@ -298,6 +344,157 @@
     "time_limit": 180,
     "max_questions": 90,
     "questions": [
+      {
+        "question": "Which of the following is the most accurate statement about the language acquisition process of young children?",
+        "answers": ["Young children understand full sentences at a relatively late stage in language development.","Young children exhibit random, highly variable errors in sentence construction.","Young children infer the underlying rules of language to which they are exposed.","Young children require planned early instructional intervention to master the grammar of the English language."],
+        "correct_answer":2,
+        "explanation": "{2} is the best answer. According to psycholinguists and others who specialize in human growth and development, young children begin to acquire the ability to communicate through hypothesis testing. Children's perception of adult speech helps them form hypotheses about how different ideas are expressed in the language they are acquiring, and they test their hypotheses. {0}, {1}, and {3} are not correct. Language learning is an active cognitive process that occurs as children hear imitate, explore, and practice the spoken word. The answer choices are not consistent with this research-based statement."
+      },
+      {
+        "question": "Which of the following is the most effective instructional techniques for helping kindergarten students develop an understanding of concepts about print?",
+        "answers": ["Exposing students to a variety of rhyming texts","Modeling how to track text during shared reading of a text","Modeling finger tapping to identify the number of phonemes in words","Providing direct instruction in common letter-sound relationships"],
+        "correct_answer":1,
+        "explanation": "{1} is the best answer. Children are more likely to attend to print when engaged in shared reading with an adult who uses print referencing behavior, e.g., traching text. {0}, {2}, and {3} do not address concepts of print."
+      },
+      {
+        "question": "Which of the following pair of words demonstrate that different letter combinations can represent the same speech sound?",
+        "answers": ["Church...chorus","Bow...bow","Hot...cold","Phone...laugh"],
+        "correct_answer":3,
+        "explanation": "{3} is the best answer. 'ph' and 'gh' fall into the category of consonant irregularities with consonant combinations that have a unique sound. Both the 'ph' in 'phone' and th 'gh' in 'laugh' represent the sound of /f/. {0}, {1}, and {2} are not correct. The word pairs contain similar letters or letter combinations with different speech sounds."
+      },
+      {
+        "question": "How many morphemes are in the word rerecorded?",
+        "answers": ["One","Two","Three","Four"],
+        "correct_answer":1,
+        "explanation": "{2} is the best answer. A morpheme is the smallest meaningful unit in the grammar of a language. The word 'rerecorde' contains three morphemes. The unit 're' is a prefix meaning back or again. 'record' is the base that gives the word its meaning. The word part 'ed' indicates past tense."
+      },
+      {
+        "question": "Which of the following is the best way for a teacher to assess students' phonemic awareness?",
+        "answers": ["Ask students to identify the letter at the beginning of the word 'desk'","Say the word 'lamp' and ask students to break it into individual sounds","Distribute the letter cards 'b', 'a', and 't' and ask students to order the letters to create a word","Display the written word 'cat' and ask students to sound it out as they tap each letter"],
+        "correct_answer":1,
+        "explanation": "{1} is the best answer. A student who possesses phonemic awareness can segment sounds in spoken words and blend strings of isolated sounds together to form recognizable words. {0}, {2}, and {3} are not correct. These answer choices focus on connecting spoken sounds to written letters, which are phonics skills."
+      },
+      {
+        "question": "A fifth-grade class studies the American Revolution. THe techer wants students to understand the differences in perceptions between the colonists who believed their actions in the Boston Tea Party were legitimate protests against British taxation, and the British who thought the colonists were engaged in rebellion against their government.\n\nWhich of the following studetn activities is most effective in helping students understand the differences in perceptions?",
+        "answers": ["List examples of significant protests and rebellions during other historical time periods","Write a letter persuading a friend th view the Boston Tea Party as an act of legitimate protest","Create a Venn diagram to compare and contrast the concepts of protest and rebellion","Rad a first-person account told from the perspective of someone who participated in the Boston Tea Party"],
+        "correct_answer":2,
+        "explanation": "{2} is the best answer. A Venn diagram is a graphic organizer used to compare and contrast two or more things. {0}, {1}, and {3} are not correct. These choices do not focus on the differences in perception which is the objective of the lesson."
+      },
+      {
+        "question": "A teacher notes that a student is consistently not meeting grade-level performance standards. Which of the following should be the classroom teacher's first step?",
+        "answers": ["Adjust instructional techniques to met the student's unique learning needs","Continue to assess and monitor the student's academic progress on a regular basis","Refer the student for testing to determine if he or she qualifies for special services","Identify specific learning goals based on the student's current performance levels"],
+        "correct_answer":0,
+        "explanation": "{0} is the best answer. The purpose of assessment is to use the data to drie appropriate instruction to meet a student's unique needs. {1} is not correct. Continuing to assess and monitor student progress on a regular basis does not address the need to provide needs-specific instruction. {2} is not correct. Referring the student for special services testing is not an appropriate first step the teacher should take. {3} is not correct. A student learning goal is a measurable, long-term student growth target, and therefore is not the best first step to meet a student's instructional needs."
+      },
+      {
+        "question": "When preparing to do a close reading of a complex text with students, it is important to know which of the following?",
+        "answers": ["Students should be focused on trying to accurately summarize the text and identify key story elements","The teacher's role is to guide students through the text and interpret the meaning of challenging text for students.","Students should read the text multiple times and focus on a different outcome during each reading.","The teacher's role is to plan extensive pre-reading activities and elicit students' prior knowledge before students read the text"],
+        "correct_answer":2,
+        "explanation": "{2} is the best answer. Close reading is a technique in which students read challenging texts multiple times, each time for a different purpose; e.g., to determine what a text says and to clarify confusions, to determine how the text works, and to evaluate the value of the txt and connect it to other texts. The teacher's major role is to ask text-dependent questions that require students to interpret what they've read and provide evidence from the text to support their understnading. Instructional time should be focused primarily on students reading and interacting with the text. {0} is not correct. Close reading addresses more than summarizing a text and identifying key story elements. {1} is not correct. Students engaged in close reading should be given the responsibility for interpreting the meaning of the text. {3} is not correct. Instructional time in close rading should be focused primarily on students reading and interacting with the text. The teacher's role is not to spend an extensive amount of time engaging students in pre-reading activities to support understanding during close reading."
+      },
+      {
+        "question": "Which of the following text-dependent questions best focuses students to think about the craft and stucture of a text?",
+        "answers": ["What did the main character do when he saw the letter? Why?","How did the author describe Bradley's uncle? Why did the author choose to describe him that way?","Have you ever read another story like this? How are they similar?","How has Ma and Karin's relationship changed over the course of the story? What changed it?"],
+        "correct_answer":1,
+        "explanation": "{1} is the best answer. Asking about the author's word choices encourages students to think about the author's intentions and how these choices affect the reading experience. {0}, {2}, and {3} are not correct. These text-dependent questions are intedned to focus the reader toward gaining greater understanding or making judgments about the text."
+      },
+      {
+        "question": "Which of the following best reflects research about teaching alphabetic principle to young students?",
+        "answers": ["Teaching students the letters and their corresponding sounds in alphabetical order","Introducing students to the vowel sounds before introducing them to the short vowel sounds","Introducing students to similar sounding or looking letters in close succession","Teaching students continuous vowel and consonant sounds before stop (or clipped) sounds"],
+        "correct_answer":3,
+        "explanation": "{3} is the best answer. Continuous vowel or consonant sounds can be prolonged or stretched out when they are pronounched and are easier to say without distoration. Voiced stop sounds are not as easy to pronounce in isolation without a vowel sound. {0} is not correct. Introducing letter sounds in alphabetical order limits the number of words the students can form, thus limiting their ability to practice using the alphabetic principle to read and write. Research generally agrees that the earliest relationships introduced should be those that enable children to begin reading words as soon as possible. That is, the relationships chosen should have high utility. For example, the spellings m, a, t, s, p, and h are high utility, but the spelllings x as in box, gh as in through, ey as in they, and a as in want, are of lower utility. {1} is not correct. Research does not support the effectiveness of introducing students to all long vowel sounds before short vowels. {2} is not correct. The simultaneous introduction of auditorily or visually similar souns and letters should be avoided."
+      },
+      {
+        "question": "A teacher listens to Zane, a fourth-grade student, read an unfamiliar passage aloud for one minute. He read at an average rate but with poor expression. He accurately decoded 98% of the words in the passage. Based on the results of the assessment, which of the following teacher actions will best improve Zane's reading ability?",
+        "answers": ["Building prior knowledge of the passage before the student's oral reading","Providing explicit instruction and modeling of prosodic reading of text","Encouraging the student to engage in repeated readings of the same text","Having the student listen to a recording of the oral reading to self-assess his performance"],
+        "correct_answer":1,
+        "explanation": "{1} is the best answer. The student demonstartes difficulties in oral reading prosody. Providing direct insturction and modeling fluent, prosodic reading is the most effective insturctional strategy to assist the student's specific reading need. {0} is not correct. Building prior knowledge is most beneficial to increase comprehension of text. {2} is not correct. Asking the student to do repeated readings of the text is not as effective as teaching the elements of good oral reading and modeling how to read expressively. {3} is not correct. Without knowledge of how to read expressively in a natual manner, the student may not be successful in self evaluation and improving his oral reading skills."
+      },
+      {
+        "question": "A class prepares to read a schience text about an unfamiliar, complex process. The best way the teacher can support students' successful reading of the text is to",
+        "answers": ["guide students to continue reading when they come to an unfamiliar word in order to search for context clues","assign a small portion of text, and then pause for discussion and student questions before moving on","make dictionaries available to students so that they can look up the meanings of challenging vocaulary before reading each section of the text","ask each student to do a quick write about the process using their background knowledge, and then ask them to share their writing with a partner"],
+        "correct_answer":1,
+        "explanation": "{1} is the best answer. Assigning a small section of a complex science text and pausing for discussion allow a student to monitor his comprhension and apply fix-up strategies if breakdowns in understanding have occurred. {0} and {2} are not correct. Weaknesses inword-level processes hinder comprehension, but neither of these choices are the best answer. {3} is not correct. Doing a quick write activating prior knowledge about the science process is more likely to be a prereading activity and is not the most effective strategy to support students while reading the text."
+      },
+      {
+        "question": "A middle school teacher uses the diagram above when teaching vocabulary. Which of the following prompts should be added to the the diagram in order to best deepen students' understanding of and ability to retain a new vocabulary word?",
+        "answers": ["What makes this an important word for me to know?","What is the actual dictionary definition of this word?","What personal connections can I make to this word?","What are other examples of words that share the same root?"],
+        "correct_answer":2,
+        "explanation": "{2} is the best answer. Making personal connections to a word will help students see how the word is related to their everyday life, therefore making the covabulary word more relevant and easier to recall. This prompt also asks students to gain deeper understanding of the word because they must determine how the word applies to their prior knowledge. {0}, {1}, and {3} are not correct. These choices do not encourage the student to make a deep, personal connection to the covabulary word, and therefore internalizing the word meaning is not as likely to occur.",
+        "pre_question_instructions":"Use the graphic organizer to answer the question that follows.",
+        "pre_question_diagram":"5203_13_diagram.png"
+      },
+      {
+        "question": "Based on the writing sample, there is evidence that the student",
+        "answers": ["understands that each syllable of a word contains a vowel sound and how to use evidence from the text","knows how to spell most high-frequency words and that individual words are separated by spaces","understands one-to-one letter-sound correspondence and how to apply capitalization rules","knows that stories have a structure and understands that punctuation marks are used at the end of sentences"],
+        "correct_answer":0,
+        "explanation": "{0} is the best answer. The writing sample shows the student's understanding that each syllable in a word needs to contain at least one vowel. The student has also responded to the task by citing evidence from the text. {1} is not corect. THe sample contains several spelling errors and individual words are not consistently separated by spaces. {2} is not correct. The student does not show an understanding of basic capitalization rules. {3} is not correct. The sample does not contain any punctuaion marks.",
+        "pre_question_instructions":"Use the student writing sample to answer the question that follows.",
+        "pre_question_text":"Devon wrote the following short response to a story that the teacher presented during a read-aloud. The teacher asked students to name two things that show how clever Coyote is.\n\n{i}The first way heis clever is that he can Shot bowinerows The Next way he is clever is that He noes howto get to the moon{i}"
+      },
+      {
+        "question": "Which of the following practices is most appropriate for a teacher to use when determining the placement of students into flexible groups for reading instruction?",
+        "answers": ["Using students' most current standardized reading assessment results to group together students with similar scores","Using results from a variety of assessments to form mixed-ability groups","Using formal and informal measures to inform instruction that targets students' changing needs","Using a teacher-prepared survey to determine students' authentic reading interests"],
+        "correct_answer":2,
+        "explanation": "{2} is the best answer. Flexible grouping is a form of differentiated insturction in which a teacher uses a combination of formal and informal assessments and observations to meet the needs of individual students. Based on the data, small groups of students are formed and the teacher provides systematic and explicit instuction in identified skill areas. How long and how often the teacher meets with a group  varies depending on student needs. {0} is not correct. Using a student's most current standardized reading assessment results is only one measure to consider in forming flexible groups. {1} is not correct. In flexible gouping, the teacher forms groups based on similar instructional needs. {3} is not correct. Flexible grouping is used to meet meet an individual student's current needs in specific skill areas. The model does not address reading interests."
+      },
+      {
+        "question": "Research indicates that a relationship exists between reading and writing. Which of the following statements supports the finding?",
+        "answers": ["Reading is a constructive process, and writing is a recursive one.","Reading and writing share similar processes and require using the same kinds of knowledge","Reading requires a passive stance, and writing emphasizes an active stance.","Reading and writing development share the same five stages and students proceed through those stages in the same order."],
+        "correct_answer":1,
+        "explanation": "{1} is the best answer. Research has shown that readers and writers use the same kinds of knowledge when constructing meaning. Both processes, for example, require knowledge of sound and letter relationships, language conventions, organization, content, pragmatics, and purpose. {0} and {2} ar not correct. THese choices are inconsistent with the similarities between reading and writing. {3} is ot correct. Writing consists of five stages (prewriting, drafting, revision, editing, and publishing), but these stages are recursive and students do not proceed through them in the same order. These five stages do not relate to active reading."
+      },
+      {
+        "question": "Before writing narratives, fifth-grade students use reference materials to create semantic gradients like the one below. The semantic gradients are posted around the classroom so that students can refer to them while writing.\n<ecstatic, thrilled><delighted, joyful><happy||calm||unhappy><depressed, gloomy><miserable, wretched>\n\nThe primary objective of the lesson is for students to effectively use reference materials during writing as tools for",
+        "answers": ["selecting precise language","spelling words correctly","generating imaginative ideas","avoiding repetitive vocabulary"],
+        "correct_answer":0,
+        "explanation": "{0} is the best answer. Semantic gradients support students in understanding shades of meaning. The reference materials used to make sematic gradients, namely dictionaries and thesauri, help students to recognize that while words can mean nearly the same thing, the nuances are different. Using reference materials to create semantic gradients supports students in selecting precise covabulary to convey the intended message."
+      },
+      {
+        "question": "While reading a complex piece of text, a teacher asks students to record their reactions in the margin, including their questions, summaries, and personal connections. The primary purpose of the activity is to",
+        "answers": ["ensure active comprehension monitoring","develop strong summarization skills","assess application of word analysis strategies","identify the organizational structure of the text"],
+        "correct_answer":0,
+        "explanation": "{0} is the best answer. Good readers are extremely active as they read. When students respond inwriting as they read a complex piece of text by asking questions, summarizing, and making personal connections, they are encouraged to think strategically about what and why they are reading. Through annotaions, the student creates a visual record of his thoughts while making sense of the text. {1}, {2}, and {3} are not correct. Summarizing, applying word-analysis strategies, and identifying tet organization are parts of strategic reading. An active reader needs to do more to reach a deep level of engagement and comprehension of complex text."
+      },
+      {
+        "question": "Using the list below, place the reading strategies in order according to when the strategy is used: before, during, or after reading. Click and drag the strategy to the appropriately labeled spot on the chart below.",
+        "qType":"FiB",
+        "options":["Summarizing","Self-monitoring","Setting a purpose"],
+        "answers": ["Before reading","During reading","After reading"],
+        "correct_answer":["Setting a purpose","Self-monitoring","Summarizing"],
+        "explanation": "{0}. Before Reading: setting a purpose for reading is a before-reading strategy. {1}. During Reading: self-monitoring is a strategy that is used while reading. {2}. After Reading: summarizing is a strategy that occurs after reading has taken place."
+      },
+      {
+        "question": "Indicate whether the following descriptions are true or false regarding explicit teaching.",
+        "qType": "TF",
+        "answers": ["Explicit teaching begins with little teacher input and moves toward extensive teacher support for student learning","Students have multiple opportunities to practice a skill on their own and to receive teacher feedback as needed","Teacher modeling of the skill or strategy is on e of the first steps in explicit teaching","The first step in explicit teaching is to set a purpose for what the students are about to learn","Student inquiry, independent exploration, and hypothesis creation are more important parts of explicit teaching"],
+        "correct_answer":[false,true,true,true,false],
+        "explanation": "Statements {1}, {2}, and {3} are true. Explicit instruction (also known as 'direct instruction') is a sequence of supports: first, setting a purpose for learning, then telling students what to do, then showing them how to do it, and finally guiding their hands-on application of the new learning. Statement {0} is false because explicit teaching begins with a large amount of techer input and moves towards less teacher input and greater student responsibility. Statement {4} is false because explicit teching involves direct teaching of a skill or strategy, not independent exploration or student inquiry."
+      },
+      {
+        "question": "Which of the following instructional strategies best completes the chart?\n\n| Reading Comprehension | Reading Fluency | Writing | Vocabulary |\n| ------| -----------| -----------| -----------|\n| Directed Reading-Thinking activity| Shared reading | Sentence combining | Word hunts |\n| Inquiry chart | Partner reading | Paragraph hamburger | Possible sentences |\n| Think-Pair-Share | ? | Revision | Word walls |",
+        "answers": ["Semantic feature analysis","Brainstorming","Readers' theater","Anticipation guide"],
+        "correct_answer":2,
+        "explanation": "{2} is the best answer because facilitating a Readers' theater is an effective strategy for improving fluency skills. {0} is not correct. Semantic feature analysis is used to work on vocabulary skills, not fluency. {1} is not correct. Brainstorming is used to help students get ideas about which to write. {3} is not correct. An anticipation guide is used to strengthen comprehension."
+      },
+      {
+        "question": "Which of the following best describes a direct method in which students learn new covabulary words?",
+        "answers": ["Facilitating daily independent reading time","Incorportating wordplay activities into the school day","Providing both fiction and nonfiction texts in the classroom library","Introducing text-specific words before lessons and activities"],
+        "correct_answer":3,
+        "explanation": "{3} is the best answer because the teacher needs to first provide the direct instuction in text-specific words before studnts engage in reading. Students then can be guided by the teacher to practice the newly learned covabulary in different activities and contexts. {0} is not correct. Engaging in independent reading activities is an indirect way of students increasing their vocabulary. The teacher is not providing direct instruction in word knowledge. {1} is not correct. Participating in oral word play activities with adults is an indirect way to increase a student's vocabulary. This option does not require direct instruction from from a teacher. {2} is not correct. Providing different genres of books in the class library does not provide direct instruction of vocabulary words. It provides exposure."
+      },
+      {
+        "question": "When teaching research skills to elementary students, a teacher should have the student focus primarily on which of the following?",
+        "answers": ["Evaluating Web sies for relevance and credibility","Taking mental notes on the topic","Using appropriate resources and search tools","Reading most of the available information about the topic"],
+        "correct_answer":2,
+        "explanation": "{2} is the best answer because all appropriate tools should be used, not just the Internet, and not just books. A student would also need to know which search engines to use to get the best results, and which books. A dictionary wouldn't be used to look up information on Rosa Parks, for example. {0} is not correct. This would be something that high school or older students would be concerned with, instead of elementary aged students. {1} is not correct. Students would need to take paper/pencil notes to add to the report, instead of just mental notes. {3} is ot correct. To search effectively, students would need to know how to use keywords and, thus, eliminate part of their time searching for a topic."
+      },
+      {
+        "question": "During a reading conference, a teacher notices that a student is unable to answer basic comprehension questions about a book after reading it. Which of the following actions is best for the teacher to take first?",
+        "answers": ["Preparing an outline of the plot to assist the student in recallin important details","Encouraging the student to reread the parts of the book that were difficult to understand","Conducting a mini-lesson on active reading strategies the student can use while reading","Administering an informal assessment to identify the skills with which the student is struggling"],
+        "correct_answer":3,
+        "explanation": "{3} is the best answer because there are many factors that can contribute to reading comprehension difficulties including phonological and fluency skills. Assessing the source of the student's difficulty will help the teacher to provide needed support in the area the student needs it the most. {0} is not correct. While this may help the student to understand the book more, it is a temporarty fix and will not help the student's comprehension skills. {1} is not correct. While rereading is a good strategy to clarify what was read, the teacher does not know the source of the student's difficulties. If it is a decoding or covabulary problem, for example, rereading would not help. {2} is not correct. While active reading strategies are good tools to aid comprehension, without knowing the source of the student's struggles, they are not guaranteed to be helpful"
+      }
     ]
   },
   "7801": {
@@ -305,6 +502,380 @@
     "time_limit": 330,
     "max_questions": 217,
     "questions": [
+      {
+        "question": "A teacher is administering an informal reading assessment that includes the following sentences:\n> Monkeys like to play together. They wrestle and roll\n\nWhen reading the sentences, one student says the word 'wiggle' instead of 'wrestle.' The student is likely using which of the following cuing systems?\nSelect **all** that apply.",
+        "qType":"MC",
+        "answers": ["Sematic","Syntactic","Graphophonemic"],
+        "correct_answer":[0,1,2],
+        "explanation": "The correct answers are {0}, {1}, and {2}. \"Wiggle\" makes sense in the sentence, suggesting that the student may be using semantic cuing {0}. Because \"wiggle\" is a verb, it fits the sentence syntactically {1}, so the student may also be using syntactic cuing. Finally, \"wiggle\" looks similar to \"wrestle,\" since it shares the first letter and the last two letters and is approximately the same length, suggesting that the student may also be using graphophonemic cuing {2}."
+      },
+      {
+        "question": "Which **two** of the following words are appropriate to include in a lesson on the different phonemes created by r-controlled vowels?",
+        "qType": "MC",
+        "answers": ["Angry","Bridge","Bird","Real","Silver"],
+        "correct_answer":[2,4],
+        "explanation": "The correct answers are {2} and {4}. The /ir/ sound in \"bird\" {2}, similar to the same sound in \"stir,\" \"third,\" and \"sir,\" is an r-controlled sound. \"Silver\" {4}, also contains an r-controlled /er/ sound, similar to the same sound as in \"winter,\" \"her,\" and \"fern.\" Answer choices {0} \"angry,\" {1} \"bridge,\" and {3} \"real\" have vowels following the r sound, not before it, which means they are not r-controlled sounds."
+      },
+      {
+        "question": "A student uses a 'W' to represent the initial sound in the word 'doughnut.' In this scenario, which of the following pattersn of thinking is the student demonstrating?\nSelect **all** that apply.",
+        "qType": "MC",
+        "answers": ["Believing that each sound can be represented by only one letter","Thinking that the position of a letter within a word does not affect the sound it makes","Confusing a sound in a letter name with a sound represented by the letter"],
+        "correct_answer":[2],
+        "explanation": "The correct answer is {2} only. The student's use of \"w\" to represent the /d/ in \"doughnut\" suggests that the student has concluded that because the letter name for \"w\" starts with the sound /d/ (as in \"double-u\"), the correct letter to represent /d/ is \"w.\" The substitution does not suggest a misunderstanding about the impact of position on sound {1} or about how many letters can represent a single sound {0}. "
+      },
+      {
+        "question": "A student writes the sentence 'I like to eat ice cream' as follows.\n![piece_of_paper]({{require('/@/assets/7801_4_lang_image.png')}})\nWhich of the following print concepts should the teacher focus on when reading with the student?\nSelect **all** that apply.",
+        "answers": ["Text direction","Return sweep","Punctuation meaning"],
+        "qType": "MC",
+        "correct_answer":[1],
+        "explanation": "The correct answer is {1} only. An important concept of print is knowing where to continue reading once a reader has come to the end of a line. In this case, the student's writing suggests a need for reinforcement of this concept; after writing the first line, the student began a new line of text after \"eat\" and \"is,\" even though these words could have fit on the same line as \"crem.\" {0} is incorrect because the student has written the words from left to right, so the teacher does not need to reinforce the concept of text direction. Finally, the teacher's focus does not appear to be needed on punctuation meaning {2}, since the student correctly punctuates the sentence at the end with a period."
+      },
+      {
+        "pre_question_instruction": "The following question refers to the following scenario",
+        "pre_question_text":"Ms. Weise is reading and discussing 'The Tortoise and the Hare' with her class.\n>>One day, a hare was boasting to all the other animals in the forest. \"I'm faster than the wind,\" he said. \"No one has ever beaten me. No one ever will!\"\n\"Does anyone here want to challenge me to a race?\" the hare dared the animals of the forest. The foxes and frogs and snakes all stared back silently.\nThen the hare heard a modest voice say, \"I will race you.\" It was the tortoise.\nThe hare guffawed. \"You? What a funny joke! I can run circles around you!\"\n\"Perhaps,\" the tortoise said, smiling to himself. \"Shall we race?\"\n\"On your mark, get set, go!\" chanted the nearby animals. In a flash, the hare was off and out of sight. The tortoise set off slowly, just plodding along steadily, one heavy foot in front of the other.\nAfter a while the hare looked back and could not see the tortoise anywhere. It was a hot day. The hare said to himself, \"I'm so far ahead that I can win this race easily. It won't hurt if I just take a little rest.\" So he found a shady spot and lay down on a patch of grass.\nWhen he awoke, the sun hung lower in the sky. The hare looked for the tortoise but didn't see him. \"I might as well go finish the race,\" he said, heading towards the finish line. But when he got close, he saw the tortoise crawling over the finish line before him. \"Oh no!\" the hare said.\nAll the animals cheered, \"Tortoise won! Tortoise won!\" And the tortoise smiled to himself again.",
+        "question": "Which of the following student statements about the story required the student to make a text-based inference?",
+        "answers": ["The hare thinks he is going to win the race because he wins every race.","The foxes, frogs, and snakes are afraid to race against the hare.","The hare laughs at the tortoise when he says he wants to race.","The hare takes a nap because he thinks he's way ahead of the tortoise."],
+        "correct_answer":1,
+        "explanation": "The correct answer is {1} because the text does not state explicitly that the animals are afraid to race the hare. However, students can make this inference because it says that the animals \"stared back silently\" when the hare issued his challenge. The hare's intimidating previous statement \"No one has ever beaten me. No one ever will!\" offers additional support for the inference. {0} is incorrect because it simply paraphrases the hare's own statement \"No one has ever beaten me. No one ever will!\" It does not require students to make an inference. {2} is incorrect. Although students may need to consult a dictionary to understand that \"guffawed\" means \"laughed,\" they do not need to make an inference. {3} is incorrect because, like {0}, it simply paraphrases the hare's own statement, \"I'm so far ahead that I can win this race easily. It won't hurt if I just take a little rest.\""
+      },
+      {
+        "pre_question_instruction": "The following question refers to the following scenario",
+        "pre_question_text":"Ms. Weise is reading and discussing 'The Tortoise and the Hare' with her class.\n>One day, a hare was boasting to all the other animals in the forest. \"I'm faster than the wind,\" he said. \"No one has ever beaten me. No one ever will!\"\n\"Does anyone here want to challenge me to a race?\" the hare dared the animals of the forest. The foxes and frogs and snakes all stared back silently.\n==Then the hare heard a modest voice say, \"I will race you.\" It was the tortoise.==\n==The hare guffawed. \"You? What a funny joke! I can run circles around you!\"==\n==\"Perhaps,\" the tortoise said, smiling to himself. \"Shall we race?\"==\n\"On your mark, get set, go!\" chanted the nearby animals. In a flash, the hare was off and out of sight. The tortoise set off slowly, just plodding along steadily, one heavy foot in front of the other.\nAfter a while the hare looked back and could not see the tortoise anywhere. It was a hot day. The hare said to himself, \"I'm so far ahead that I can win this race easily. It won't hurt if I just take a little rest.\" So he found a shady spot and lay down on a patch of grass.\nWhen he awoke, the sun hung lower in the sky. The hare looked for the tortoise but didn't see him. \"I might as well go finish the race,\" he said, heading towards the finish line. But when he got close, he saw the tortoise crawling over the finish line before him. \"Oh no!\" the hare said.\nAll the animals cheered, \"Tortoise won! Tortoise won!\" And the tortoise smiled to himself again.",
+        "question": "Ms. Weise wants students to find examples from \"The Tortoise and the Hare\" to demonstrate three basic elements of story structure:\n1. an orientation that sets the scene,\n2. a complication that is introduced, triggering the main series of events, and\n3. a resolution.\nOf the three highlighted paragraphs of dialogue, select the ++one++ paragraph in which the complication is introduced.",
+        "qType":"ST",
+        "answers": ["Then the hare heard a modest voice say, \"I will race you.\" It was the tortoise.","The hare guffawed. \"You? What a funny joke! I can run circles around you!\"","\"Perhaps,\" the tortoise said, smiling to himself. \"Shall we race?\""],
+        "correct_answer": "Then the hare heard a modest voice say, \"I will race you.\" It was the tortoise.",
+        "explanation": "The correct paragraph to highlight is \"Then the hare heard a modest voice say, 'I will race you.' It was the tortoise.\" This paragraph introduces the complication: the tortoise's surprising challenge to the hare. This complication, in turn, triggers the main series of events in the story, including the hare's condescending reaction and the tortoise's confident reply (both depicted in the other two selectable paragraphs), the race, and the tortoise's victory (the resolution)."
+      },
+      {
+        "parts":
+          [
+            {
+            "pre_question_instruction": "The following question refers to the following scenario",
+            "pre_question_text":"Ms. Weise is reading and discussing 'The Tortoise and the Hare' with her class.\n>One day, a hare was boasting to all the other animals in the forest. ==\"I'm faster than the wind,\" he said.== \"No one has ever beaten me. No one ever will!\"\n\"Does anyone here want to challenge me to a race?\" the hare dared the animals of the forest. The foxes and frogs and snakes all stared back silently.\nThen the hare heard a modest voice say, \"I will race you.\" It was the tortoise.\nThe hare guffawed. \"You? What a funny joke! I can run circles around you!\"\n==\"Perhaps,\" the tortoise said, smiling to himself.== \"Shall we race?\"\n\"On your mark, get set, go!\" chanted the nearby animals. In a flash, the hare was off and out of sight. ==The tortoise set off slowly, just plodding along steadily, one heavy foot in front of the other.\nAfter a while the hare looked back and could not see the tortoise anywhere.== It was a hot day. The hare said to himself, \"I'm so far ahead that I can win this race easily. It won't hurt if I just take a little rest.\" So he found a shady spot and lay down on a patch of grass.\nWhen he awoke, the sun hung lower in the sky. The hare looked for the tortoise but didn't see him. \"I might as well go finish the race,\" he said, heading towards the finish line. ==But when he got close, he saw the tortoise crawling over the finish line before him.== \"Oh no!\" the hare said.\nAll the animals cheered, \"Tortoise won! Tortoise won!\" And the tortoise smiled to himself again.",
+            "question": "Which of the following pairs of words is most approprate for Ms. Weise to introduce to students to support their discussion of the main characters' personality traits?",
+            "answers": ["Vengeful, unknowing","Jealous, supportive","Lazy, unathletic","Determined, arrogant"],
+            "correct_answer":3,
+            "explanation": "For part A, the correct answer is {3}. The characteristic \"determined\" best matches the personality of the tortoise, who is described in the story as setting \"off slowly, just plodding along steadily, one heavy foot in front of the other.\" In part A, {0} is incorrect. Although the hare might be described as \"unknowing\" because he is unable to imagine being beaten by the tortoise, this is not his dominant personality trait in the story. In addition, \"vengeful\" is not an appropriate description for either character. {1} is incorrect because although the hare is likely jealous of the tortoise's victory, this jealousy is only implied at the very end of the story; it is not a dominant personality trait. Further, neither character could be described as \"supportive\" of the other. Finally, {2} is incorrect because although the hare does behave in a lazy way by taking a nap in the middle of the race, neither character could be described as unathletic; the hare is a skilled racer, and the tortoise, by winning the race, shows that he is also athletic."
+          },
+          {
+            "pre_question_instruction": "The following question refers to the following scenario",
+            "pre_question_text":"Ms. Weise is reading and discussing 'The Tortoise and the Hare' with her class.\n>One day, a hare was boasting to all the other animals in the forest. ==\"I'm faster than the wind,\" he said.== \"No one has ever beaten me. No one ever will!\"\n\"Does anyone here want to challenge me to a race?\" the hare dared the animals of the forest. The foxes and frogs and snakes all stared back silently.\nThen the hare heard a modest voice say, \"I will race you.\" It was the tortoise.\nThe hare guffawed. \"You? What a funny joke! I can run circles around you!\"\n==\"Perhaps,\" the tortoise said, smiling to himself.== \"Shall we race?\"\n\"On your mark, get set, go!\" chanted the nearby animals. In a flash, the hare was off and out of sight. ==The tortoise set off slowly, just plodding along steadily, one heavy foot in front of the other.\nAfter a while the hare looked back and could not see the tortoise anywhere.== It was a hot day. The hare said to himself, \"I'm so far ahead that I can win this race easily. It won't hurt if I just take a little rest.\" So he found a shady spot and lay down on a patch of grass.\nWhen he awoke, the sun hung lower in the sky. The hare looked for the tortoise but didn't see him. \"I might as well go finish the race,\" he said, heading towards the finish line. ==But when he got close, he saw the tortoise crawling over the finish line before him.== \"Oh no!\" the hare said.\nAll the animals cheered, \"Tortoise won! Tortoise won!\" And the tortoise smiled to himself again.",
+            "qType": "MC",
+            "question": "Review the five highlighted sentences from the story. Which ++two++ sentences best support the answer to part A? One sentence should support the first word, and the other sentence should support the second word.",
+            "answers": ["\"I'm faster than the wind,\" he said.","\"Perhaps,\" the tortoise said, smiling to himself.","The tortoise set off slowly, just plodding along steadily, one heavy foot in front of the other","After a while the hare looked back and could not see the tortoise anywhere."," But when he got close, he saw the tortoise crawling over the finish line before him."],
+            "correct_answer":[0,1],
+            "explanation": "The characteristic \"determined\" best matches the personality of the tortoise, who is described in the story as setting \"off slowly, just plodding along steadily, one heavy foot in front of the other.\" This is the first highlighted sentence that should be selected for part B. The characteristic \"arrogant\" best matches the personality of the hare, who makes haughty statements such as \"I'm faster than the wind.\" This is the second highlighted sentence that should be selected for part B. "
+          }
+        ]
+      },
+      {
+        "question": "Select the ++two++ sentences from the passage that signal a cause-effect relationship.",
+        "qType":"MC",
+        "answers": ["Instead of using words and letters, Egyptians in ancient times used hieroglyphics to record their history","The ancient Egyptian language is one of the earliest recorded written languages.","Hieroglyphic writing was used from about 3200 BC until the late fourth century AD.","Because it is so different from modern-day language, it can often be difficult to decipher."," Archaeologists and anthropologists who first discovered hieroglyphics had no idea how to translate the obscure pictures."," However, in 1799, they found the Rosetta Stone.","The Rosetta Stone is inscribed with a single message written in three different languages: Egyptian hieroglyphics, demotic script, and ancient Greek.","Although it was regarded as an extremely layered and complex task, scientists were able to use their knowledge of ancient Greek and demotic script to translate the hieroglyphics.","By translating the hieroglyphics into modern languages, scientists were able to gain a better understanding of how ancient Egyptians lived."],
+        "correct_answer":[3,8],
+        "explanation": "Sentence {3}, \"Because it is so different from modernday language, it can often be difficult to decipher,\" and sentence {8}, \"By translating the hieroglyphics into modern languages, scientists were able to gain a better understanding of how ancient Egyptians lived,\" are the correct answers. \"Because\" is a primary transitional word used to signal a cause-and-effect relationship, and in sentence {3}, it is used to explain the reason for the effect of hieroglyphic writing being \"difficult to decipher\" (\"Because it is so different from modern-day language\"). The other effective model, sentence {8}, uses a phrase beginning with \"By\" to explain how the cause \"translating hieroglyphics into modern languages\" yielded the effect of scientists having a better understanding of how ancient Egyptians lived. No other sentences in the paragraph demonstrate a causeand-effect relationship."
+      },
+      {
+        "pre_question_instruction": "The following question refers to the following scenario",
+        "pre_question_text": "As part of an interdisciplinary unit about ancient Egypt, students will read an informational text that introduces them to hieroglyphics. Following is an excerpt from the text.\n>Instead of using words and letters, Egyptians in ancient times used ==hieroglyphics== to record their history. The ancient Egyptian language is one of the earliest recorded written languages. Hieroglyphic writing was used from about 3200 BC until the late fourth century AD. ==Because== it is so different from modern-day language, it can often be difficult to ==decipher==. Archaeologists and anthropologists who ==first== discovered hieroglyphics had no idea how to translate the ==obscure== pictures. However, in 1799, they found the ==Rosetta Stone==. The Rosetta Stone is ==inscribed== with a single message written in three different languages: Egyptian hieroglyphics, demotic script, and ancient Greek. Although it was regarded as an extremely layered and complex task, scientists were able to use their knowledge of ancient Greek and demotic script to translate the hieroglyphics. By translating the hieroglyphics into modern languages, scientists were able to gain a better understanding of how ancient Egyptians lived",
+        "qType": "MC",
+        "question": "To plan vocabulary instruction in the lesson, the teacher analyzes the text to identify Tier 2 (general academic) words or phrases that would be important to target when discussing the text. The teacher will not include Tier 1 (basic, commonly used) or Tier 3 (discipline-specific) words or phrases in the discussion.\nOf the highlighted words or phrases, select the ++three++ that are appropiately categorized as Tier 2.",
+        "answers": ["hieroglyphics","Because","decipher","first","obscure","Rosetta Stone","inscribed"],
+        "correct_answer":[2,4,6],
+        "explanation": ". \"Decipher,\" \"obscure,\" and \"inscribed\" are the correct answers. Each of these words is considered a Tier-2 word because it is an academic word that appears in a variety of subject areas. \"Because\" and \"first\" are not correct because these are basic and commonly used, or Tier 1, so they would not warrant vocabulary instruction. Finally, the terms \"hieroglyphics\" and \"Rosetta Stone\" are considered Tier-3 words because they are used only in the disciplines of archaeology and anthropology"
+      },
+      {
+        "pre_question_instruction": "The following question refers to the following scenario",
+        "pre_question_text": "An upper-elementary school teacher is having students read and discuss the following text and table.\n**How Old Would You Be on Mars?**\nYou know that a year on Earth is 365 days long, which is the amount of time it takes for Earth to orbit once around the Sun. But a year on Mars is 687 Earth days long. That's how long it takes Mars to orbit the Sun.\nImagine that people lived on Mars. A typical fifth grader would be only six Mars years old because a Mars year is almost twice as long as an Earth year. If you lived on Mars, you would have a Mars birthday only once every 687 Earth days.\nEach planet takes a different amount of time to orbit the Sun. A year on another planet depends on how long it takes that planet to orbit. The table below shows the number of Earth days each planet takes to orbit the Sun. It also shows how far from the Sun each planet orbits.\n\n| Planet | Distance from the Sun | Time the planet takes to make orbit |\n| ------ | ----------- | ----|\n| Mercury| About 58 million kilometers | 88 Earth days |\n| Venus| About 108 million kilometers | 225 Earth days |\n| Earth| About 150 million kilometers | 365 Earth days |\n| Mars| About 228 million kilometers| 687 Earth days |\n| Jupiter| About 778 million kilometers | 4,330 Earth days |\n| Saturn| About 1,429 million kilometers | 10,756 Earth days |\n| Uranus| About 2,871 million kilometers | 30,687 Earth days |\n| Neptune| About 4,504 million kilometers | 60,190 Earth days |",
+        "question": "During a discussion of the table, a student states, \"It would take 687 days to get from Mars to the Sun.\" Which of the following visual representations best helps address the student's confusion by illustrating a topic that is critical to understanding the text and table but is not fully explained in them?",
+        "answers": ["![planet path]({{require('@/assets/7801_10_a.png')}})","![fruit planet]({{require('@/assets/7801_10_b.png')}})","![planet relation to sun]({{require('@/assets/7801_10_c.png')}})","![travel dist]({{require('@/assets/7801_10_d.png')}})"],
+        "correct_answer":0,
+        "explanation": "The correct answer is {0}. The student's statement demonstrates a misunderstanding of what it means to \"orbit\"; the student seems to be confusing Mars's orbit around the Sun with a trip from Mars to the Sun. The diagram in {0} is the only one that demonstrates the path the planets take around the Sun, which helps to illustrate the meaning of \"orbit\" for the student. The diagrams in the other answer choices do not provide a visual for the student that illustrates the idea of \"orbit.\" Rather, the diagram in {1} shows the relative size of the planets. The diagram in {2} shows the order of the planets in the solar system, and the one in {3} shows the distance of each planet from the Sun in millions of miles."
+      },
+      {
+        "pre_question_instruction": "The following question refers to the following scenario",
+        "pre_question_text": "An upper-elementary school teacher is having students read and discuss the following text and table.\n**How Old Would You Be on Mars?**\nYou know that a year on Earth is 365 days long, which is the amount of time it takes for Earth to orbit once around the Sun. But a year on Mars is 687 Earth days long. That's how long it takes Mars to orbit the Sun.\nImagine that people lived on Mars. A typical fifth grader would be only six Mars years old because a Mars year is almost twice as long as an Earth year. If you lived on Mars, you would have a Mars birthday only once every 687 Earth days.\nEach planet takes a different amount of time to orbit the Sun. A year on another planet depends on how long it takes that planet to orbit. The table below shows the number of Earth days each planet takes to orbit the Sun. It also shows how far from the Sun each planet orbits.\n\n| Planet | Distance from the Sun | Time the planet takes to make orbit |\n| ------ | ----------- | ----|\n| Mercury| About 58 million kilometers | 88 Earth days |\n| Venus| About 108 million kilometers | 225 Earth days |\n| Earth| About 150 million kilometers | 365 Earth days |\n| Mars| About 228 million kilometers| 687 Earth days |\n| Jupiter| About 778 million kilometers | 4,330 Earth days |\n| Saturn| About 1,429 million kilometers | 10,756 Earth days |\n| Uranus| About 2,871 million kilometers | 30,687 Earth days |\n| Neptune| About 4,504 million kilometers | 60,190 Earth days |",
+        "question": "Which of the following questions requires students to integrate information from both text and the table when responding?",
+        "answers": ["Is Earth closer to the Sun than Jupiter is?","Is a year on Saturn longer than a year on Earth?","How is a planet's orbit connected to the length of the year on the planet?","If you are 10 years old in Earth years, how old are you in Mars years?"],
+        "correct_answer":1,
+        "explanation": "The correct answer is {1}. To answer this question, the student can infer from the first paragraph that because an Earth year is \"the amount of time it takes for Earth to orbit once around the Sun\" and a Mars year is \"how long it takes Mars to orbit the Sun,\" a Saturn year must also be the amount of time it takes for Saturn to orbit once around the Sun. The second sentence of the third paragraph (\"A year on another planet depends on how long it takes that planet to orbit\") further reinforces this inference. The student can then integrate this idea with the information from the third table column, \"Time the planet takes to make orbit,\" to see that Saturn takes 10,756 Earth days to orbit, which is clearly longer than Earth's year of 365 days, a length of time mentioned in both the text and the table. {0} is incorrect because this question is explicitly answered in the table only, under \"Distance from the Sun.\" {2} is incorrect because this question is answered in the text only, both in the first paragraph and in the third paragraph, in the statement \"A year on another planet depends on how long it takes that planet to orbit.\" {3} is incorrect because to answer the question, the student can rely on the text and on the background knowledge that a typical fifth grader is ten or eleven years old, since the second paragraph says, \"A typical fifth grader would be only six Mars years old because a Mars year is almost twice as long as an Earth year.\""
+      },
+      {
+        "pre_question_instruction": "The following question refers to the following scenario",
+        "pre_question_text": "An upper-elementary school teacher is having students read and discuss the following text and table.\n**How Old Would You Be on Mars?**\nYou know that a year on Earth is 365 days long, which is the amount of time it takes for Earth to orbit once around the Sun. But a year on Mars is 687 Earth days long. That's how long it takes Mars to orbit the Sun.\nImagine that people lived on Mars. A typical fifth grader would be only six Mars years old because a Mars year is almost twice as long as an Earth year. If you lived on Mars, you would have a Mars birthday only once every 687 Earth days.\nEach planet takes a different amount of time to orbit the Sun. A year on another planet depends on how long it takes that planet to orbit. The table below shows the number of Earth days each planet takes to orbit the Sun. It also shows how far from the Sun each planet orbits.\n\n| Planet | Distance from the Sun | Time the planet takes to make orbit |\n| ------ | ----------- | ----|\n| Mercury| About 58 million kilometers | 88 Earth days |\n| Venus| About 108 million kilometers | 225 Earth days |\n| Earth| About 150 million kilometers | 365 Earth days |\n| Mars| About 228 million kilometers| 687 Earth days |\n| Jupiter| About 778 million kilometers | 4,330 Earth days |\n| Saturn| About 1,429 million kilometers | 10,756 Earth days |\n| Uranus| About 2,871 million kilometers | 30,687 Earth days |\n| Neptune| About 4,504 million kilometers | 60,190 Earth days |",
+        "question": "After reading the text, a student states, \"If I lived farther from the Sun, I'd still be a baby!\" Which of the following beliefs is most likely causing the student's misunderstanding?",
+        "answers": ["Age is calculated differently on each planet.","Planets farther from the Sun have longer years.","Having fewer birthdays makes you physically younger.","The Sun itself contributes to the aging process."],
+        "correct_answer":2,
+        "explanation": "The correct answer is {2}. The student's statement indicates a confusion between the concepts of physical age and planetary years. The student does not understand that if he lived on a planet farther from the Sun than Earth is, he would have fewer birthdays because an orbit takes longer, therefore making an actual year longer. He would not actually be a \"baby\" or younger physically than if he were on Earth. {0} and {1} are not misconceptions. Age is actually calculated differently on each planet {0}, and planets that are farther from the Sun do actually have longer years {1}. {3} is incorrect because while the Sun does cause the skin to \"age,\" in the sense that it damages the skin, this kind of aging is different from physical growth, which is the focus of the student's misconception. Keeping a baby's skin farther from the Sun might cause him to avoid getting skin damage, but it would not prevent him from growing into an elementary-aged child."
+      },
+      {
+        "pre_question_instruction": "The following question refers to the following scenario",
+        "pre_question_text": "An upper-elementary school teacher is having students read and discuss the following text and table.\n**How Old Would You Be on Mars?**\nYou know that a year on Earth is 365 days long, which is the amount of time it takes for Earth to orbit once around the Sun. But a year on Mars is 687 Earth days long. That's how long it takes Mars to orbit the Sun.\nImagine that people lived on Mars. A typical fifth grader would be only six Mars years old because a Mars year is almost twice as long as an Earth year. If you lived on Mars, you would have a Mars birthday only once every 687 Earth days.\nEach planet takes a different amount of time to orbit the Sun. A year on another planet depends on how long it takes that planet to orbit. The table below shows the number of Earth days each planet takes to orbit the Sun. It also shows how far from the Sun each planet orbits.\n\n| Planet | Distance from the Sun | Time the planet takes to make orbit |\n| ------ | ----------- | ----|\n| Mercury| About 58 million kilometers | 88 Earth days |\n| Venus| About 108 million kilometers | 225 Earth days |\n| Earth| About 150 million kilometers | 365 Earth days |\n| Mars| About 228 million kilometers| 687 Earth days |\n| Jupiter| About 778 million kilometers | 4,330 Earth days |\n| Saturn| About 1,429 million kilometers | 10,756 Earth days |\n| Uranus| About 2,871 million kilometers | 30,687 Earth days |\n| Neptune| About 4,504 million kilometers | 60,190 Earth days |",
+        "question": "The text and table are followed by several questions. The teacher has provided students with the following list of question types to help them identify what kind of work is required in order to answer each question.\n**Right There** questions are answered directly in one place in the text.\n**Think and Search** questions are answered by combining information from different parts of the text.\n**Author and You** questions require you to combine information from the author with things you already know.\n**On My Own** questions are answered without the text by using outside knowledge.\nWhich question type best matches the question \"What holds the planets in their orbits?\"",
+        "answers": ["Right There","Think and Search","Author and You","On My Own"],
+        "correct_answer":3,
+        "explanation": "The correct answer is {3}, \"On My Own.\" In this case, the question cannot be answered through any other means than the student's outside knowledge, since neither the text nor the table discuss how the planets hold their orbits. Therefore, the student is unable to answer the question with information pulled directly from one part of the text (\"Right There\"), by integrating information from different parts of the text (\"Think and Search\"), or by combining information from the text with background knowledge (\"Author and You\"). "
+      },
+      {
+        "pre_question_instruction": "The following question refers to the following scenario",
+        "pre_question_text": "After reading Charlotte's Web (1952) by E. B. White, students respond to the prompt \"What does Wilbur learn from his friendship with Charlotte? Develop your response by using specific evidence from the text and explaining your thinking.\" One student's first draft is below.\n```\nWilbur learns a lot from Charlotte. She saved his life, and she teaches him to believe in himself. He got lots of confidence from Charlotte. She teaches him about the world and the seasons. She teaches him about friendship. After she saves Wilbur's life by spinning webs with special messages about him, he asked her why she helped him when he never did anything for her. She answers him by saying \"By helping you, perhaps I was trying to lift up my life a trifle. Heaven knows anyone's life can stand a little of that.\" Then she died, and Wilbur takes care of her children.\n```",
+        "qType": "MC",
+        "question": "Which ++two++ of the following statements best describe the draft?",
+        "answers": ["It establishes an overall claim that is relevant to the prompt.","It provides textual evidence that supports the overall claim.","It develops multiple subclaims using examples from the story.","It includes enough context about the story to make the quotation understandable.","It explains how the quotation supports the overall claim."],
+        "correct_answer":[0,3],
+        "explanation": "The correct answers are {0} and {3}. {0} is correct because the overall claim \"Wilbur learns a lot from Charlotte\" is clearly relevant to the prompt \"What does Wilbur learn from his friendship with Charlotte?\" {3} is correct because the contextual information provided before the quotation sets up the relationship between Charlotte and Wilbur so that readers can understand her comment. However, {1} is incorrect because the textual evidence provided in the story is either too general to support the overall claim (e.g., \"He got lots of confidence from Charlotte\") or focuses on Charlotte's actions and words, rather than on what Wilbur learns from them, thereby failing to support the overall claim. {2} is incorrect because although the draft includes multiple subclaims (e.g., \"she teaches him to believe in himself\" and \"She teaches him about the world and the seasons\"), only the claim \"She teaches him about friendship\" is developed through Charlotte's explanation of the personal benefits of acts of friendship. Finally, {4} is incorrect because the information provided after the quotation is a summary of a plot point rather than an explanation of the significance of the quotation in the context of the claim."
+      },
+      {
+        "pre_question_instruction": "The following question refers to the following scenario",
+        "pre_question_text": "After reading Charlotte's Web (1952) by E. B. White, students respond to the prompt \"What does Wilbur learn from his friendship with Charlotte? Develop your response by using specific evidence from the text and explaining your thinking.\" One student's first draft is below.\n```\nWilbur learns a lot from Charlotte. She saved his life, and she teaches him to believe in himself. He got lots of confidence from Charlotte. She teaches him about the world and the seasons. She teaches him about friendship. After she saves Wilbur's life by spinning webs with special messages about him, he asked her why she helped him when he never did anything for her. She answers him by saying \"By helping you, perhaps I was trying to lift up my life a trifle. Heaven knows anyone's life can stand a little of that.\" Then she died, and Wilbur takes care of her children.\n```",
+        "qType": "MC",
+        "question": "Which of the following usage problems does the student demonstrate in the paragraph?\nSelect ++all++ that apply.",
+        "answers": ["Lack of subject-verb agreement","Sentence fragments","Inconsistent verb tense"],
+        "correct_answer":[2],
+        "explanation": "The correct answer is {2} only. The student shifts between past and present verb tense in the response. \"She saved…,\" \"He got…,\" \"he asked,\" and \"she died\" are in past tense, while the other verbs are in present tense. {0} and {1} are incorrect because the subjects and verbs match, and there are no sentence fragments."
+      },
+      {
+        "pre_question_instruction": "The following question refers to the following scenario",
+        "pre_question_text": "After reading Charlotte's Web (1952) by E. B. White, students respond to the prompt \"What does Wilbur learn from his friendship with Charlotte? Develop your response by using specific evidence from the text and explaining your thinking.\" One student's first draft is below.\n```\nWilbur learns a lot from Charlotte. She saved his life, and she teaches him to believe in himself. He got lots of confidence from Charlotte. She teaches him about the world and the seasons. She teaches him about friendship. After she saves Wilbur's life by spinning webs with special messages about him, he asked her why she helped him when he never did anything for her. She answers him by saying \"By helping you, perhaps I was trying to lift up my life a trifle. Heaven knows anyone's life can stand a little of that.\" Then she died, and Wilbur takes care of her children.\n```",
+        "qType": "MC",
+        "question": "The teacher wants to provide students with support in revising their first drafts and considers having them use the following graphic organizer.\n![graphic organizer]({{require('@/assets/7801_16_image.png')}})\nWhich ++two++ of the following modifications to the graphic organizer will best support students' revisions for this writing task?",
+        "answers": ["Replacing each quotation box with a picture of a main character to make the organizer more concrete","Adding a space at the top of the organizer for the claim to ensure that the writing goal is clear","Adding a section at the bottom of the organizer for comparing the viewpoints expressed by the different quoted characters","Including arrows between the sections of the organizer with lined spaces to show that the ideas are connected","Providing more genre-specific labels for the different sections of the organizer"],
+        "correct_answer":[1,4],
+        "explanation": "The correct answers are {1} and {4}. Adding a space for the claim at the top of the graphic organizer {1} is an appropriate modification that will likely help students to select details that truly support the claim as textual evidence. Also, providing more genre-specific labels, such as \"Evidence\" and \"Explanation\" {4} will likely lead students to include more appropriate evidence and to explain their thinking. {0} is incorrect because replacing the quotation boxes with pictures to make it more aesthetically pleasing will eliminate the crucial element of textual evidence from this graphic organizer. Adding pictures of the characters is not a helpful modification for supporting the student's revision. {2} also detracts from the assignment's main goal of stating a claim and supporting it; adding a space for different characters' viewpoints will likely be confusing and is unnecessary. Finally, {3} is an inappropriate modification and would also likely cause confusion. The relationship between each piece of textual evidence and the explanation of that evidence is the most critical, and this relationship is already represented clearly in the current graphic organizer."
+      },
+      {
+        "question": "Which ++three++ of the following expressions are equivalent to 3,956 × 4 ?",
+        "qType": "MC",
+        "answers": ["3,000 × + 4 900 × + 4 50464","(4,000 × − 4 100 × 4 6 ) + × ( 0 4 − × 4 4)","4 3 × + 4 9 × + 4 5 × + 4 6","4,000 × − 4 40 4 × − 4 4","3 × × 1000 , 4 9 + × 5 10046 ×+× 1 4"],
+        "correct_answer":[0,1,3],
+        "explanation": "The correct answers are {0}, {1}, and {3}. Since 3,956 can be written as 3,000 + + 900 50 + 6 , the given expression is equivalent to (3,000 + + 900 50 + 6) x 4 . Applying the distributive property yields 3,000 × 4 + 900 × 4 + 50 x 4 + 6× 4 , which is the expression in {0}. Since 3,956 can be written as 3,900 + 56 , the given expression is equivalent to (3,900 + 56) × 4 . Applying the distributive property yields 3,900 × 4 + 56 x 4 . One can rewrite 3,900 as 4,000 − 100 and 56 as 60 − 4 , which yields the equivalent expression (4,000 − 100) x 4 + (60 − 4) × 4 . Applying the distributive property again yields (4,000 −100) x 4 + (60 - 4) × 4 , which is the expression in {1}. Since 3,956 can be written as 4,000 − 40 - 4 , the given expression is equivalent to (4,000 − 40 - 4) x 4 . Applying the distributive property yields 4,000 × − 40 x 4  − 4 x 4 , which is the expression in {3}. Applying the distributive property to the expression in {2} yields 4 x (3  + 9 + 5 + 6), which is equivalent to 4 x 23 , but this expression is not equivalent to the given expression. Since 6 x 1 = 6 , applying the distributive property to the expression in {4} yields (3 × 1,000 + 95 × 100 + 6) x 4 , which is equivalent to (3,000 + 9,500 + 6) x 4 . The sum of the numbers in the parentheses is 12,506; therefore, the expression in {4} is not equivalent to the given expression."
+      },
+      {
+        "question": "Which of the following word problems can be answered by finding the quotient of 3 ^1^/~4~ and ^1^/~3~?\nSelect ++all++ that apply.",
+        "qType": "MC",
+        "answers": ["Casey poured 3 ^1^/~4 quarts of fruit punch into cups. She filled each cup with ^1^/~3~ quart of fruit punch. How many cups did Casey fill?","A pump working at a constant rate filled 3 ^1^/~4~ equal-sized tanks of water in ^1^/~3~ hour. At the same rate, how many tanks will the pump fill in 1 hour?","Laura uses ^1^/~3~ of a piece of ribbon that is 3 ^1^/~4~ feet long to wrap a present. What is the length of the ribbon she used to wrap the present?"],
+        "correct_answer":[0,1],
+        "explanation": "The correct answers are {0} and {1}. The problem in {0} is a measurement division problem. Solving the problem involves answering the question, \"How many ^1^/~3~-quart units are there in 3 ^1^/~4~ quarts?\" The answer can be found by dividing 3 ^1^/~4~ by ^1^/~3~. The problem in {1} is a unit rate problem, since it asks how many tanks the pump will fill in 1 hour. Solving the problem involves answering the question, \"What is the rate of tanks per hour at which the pump is working if it fills 3 ^1^/~4~ tanks in ^1^/~3~ hour?\" Since the rate is measured in tanks per hour, the answer can be found by dividing 3 ^1^/~4~ by ^1^/~3~. Solving the problem in {2} involves answering the question, \"What is ^1^/~3~ of 3 ^1^/~4~ feet?\" The answer can be found by multiplying 3 ^1^/~4~ by ^1^/~3~ but cannot be found by dividing 3 ^1^/~4~ by ^1^/~3~ , so {2} is not correct."
+      },
+      {
+        "question": "Dora made a pile of 5 counters. Then Mr. Levy asked her to add counters to her pile of 5 so that the pile would have 7 counters. Dora counted out 7 more counters and added them to the pile of 5 counters.\nWhich of the following most likely explains the reason behind Dora's error?",
+        "answers": ["Dora does not fully understand one-toone correspondence between numbers and objects. ","Dora does not yet have a concept of the quantity 7.","Dora does not yet understand that one quantity can be composed of two smaller quantities.","Dora does not yet know her number facts for sums greater than 10."],
+        "correct_answer":2,
+        "explanation": "The correct answer is {2}. Dora counted out 7 more counters, not realizing that 5 can be part of 7, so she does not seem to understand that one quantity can be composed of two smaller quantities. {0} is not the key because Dora actually counted out 7 more counters, so there is evidence that she does understand one-to-one correspondence. {1} is not the key because Dora counted out 7 counters, so there is evidence that she has a concept of the quantity 7. {3} is not the key because even though Dora made a pile of 12 counters, knowing number facts for sums greater than 10 was not necessary for the original task, which was to add counters to her pile of 5 counters so there would be 7 counters in the pile. Therefore, {3} does not explain the reason behind Dora's error."
+      },
+      {
+        "question": "![math problems]({{require('@/assets/7801_4_math_image.png')}})\nJosh is a third-grade student in Ms. Carter's classroom. Josh's answers to three addition problems are shown. He incorrectly answered the first two problems but correctly answered the third problem.\nIf Josh uses the same strategy to answer the following problem, what will his answer be?\n![math prob]({{require('@/assets/7801_4.1_math_image.png')}})",
+        "qType": "IN",
+        "correct_answer":8812,
+        "explanation": "The correct answer is 8812. Josh's error is that he is not regrouping when necessary; instead, he is just writing the sum of the digits in each place value column. His written answer is correct in the third problem because 11 hundreds (the result of adding 3 hundreds and 8 hundreds) is equivalent to regrouping to get 1100. However, when he does not regroup in the first two problems, his written answers are incorrect. For example, in the first problem, Josh adds 8 tens and 6 tens to get 14 tens, but instead of regrouping 10 of those tens to get 100 and then writing the final answer as 847, Josh just adds the 3 hundreds and the 4 hundreds and then writes the final answer as 7147. Therefore, if Josh uses the same method in the last problem, he will add 8 and 4 to get 12 ones, but he will not regroup, and then he will add 2 and 6 to get 8 and 3 and 5 to get 8, and his final answer will be 8812."
+      },
+      {
+        "question": "Mr. Keller's sixth-grade class is learning about algebraic equations. In his teachers' edition of the textbook, Mr. Keller finds a page that suggests he ask students to critique the following two solutions to determine whether they are valid.\n![math prob]({{require('@/assets/7801_5_math_image.png')}})\nWhich of the following is most clearly highlighted by asking students to critique the invalid strategies?",
+        "answers": ["Understanding the meaning of the equal sign","Understanding the importance of combining like terms","Understanding the use of properties of operations to simplify expressions","Understanding the use of inverse operations to solve equations"],
+        "correct_answer":1,
+        "explanation": "The correct answer is {1}. In the first solution, 4x and 2 are added to get 6x , but the 4x term contains a variable, whereas the 2 is a constant term; it is incorrect to add 4x and 2 because they are not like terms. Similarly, in the second solution, 2x and 3 are added to get 5x , but 2x and 3 are not like terms, so this strategy is not valid. Therefore, understanding the importance of combining like terms is the answer choice that is most clearly highlighted by asking students to critique the two invalid strategies."
+      },
+      {
+        "question": "Ms. Dale wants her students to develop mental strategies that can be used to find the answer to addition and subtraction problems, including composing and decomposing numbers based on place value.\nIn one lesson, she asks her students to find numbers whose sum or difference is 28. She then has seven students share their answers as she writes them on the board.\nWhich ++three++ of the following student answers are most closely related to Ms. Dale's goal that students will be able to compose and decompose numbers based on place value?",
+        "qType": "MC",
+        "answers": ["7 + 7 + 7 + 7","8 + 10 + 10","14 + 14","20 + 8","20 + 10 − 2","25 + 3","39 − 11"],
+        "correct_answer":[1,3,4],
+        "explanation": "The correct answers are {1}, {3}, and {4}. A decomposition of numbers based on place value means that the number is written as the sum or difference of tens and ones. In {1}, the number 28 is decomposed as the sum of 2 tens, 10 +10 , and 8 ones. In {3}, the number 28 is decomposed as the sum of 2 tens, 20, and 8 ones. In {4}, the number 28 is decomposed as the difference of 3 tens, written as the sum of 2 tens and 1 ten, and 2 ones. {0} is incorrect because the number 28 is decomposed as a repeated addition of the number 7, so this decomposition is related to skip counting. {2} is incorrect because the number 28 is decomposed as the sum of 14 and itself, so this decomposition is related to doubles. {5} and {6} are incorrect because although both answers are decompositions of 28, neither of the numbers in either decomposition is a multiple of 10."
+      },
+      {
+        "question": "![math prob]({{require('@/assets/7801_5_math_image.png')}})\nMr. Khan's students are discussing the problems shown. Mr. Khan asks his students what relationships they notice in the problems. One student responds with the following conjecture.\n```\nI noticed that when you divide by a number and then multiply the result by the same number, you always get back the first number.\n```\nProvided that division by zero is excluded, for which of the following sets of numbers is the student's conjecture true?\nSelect ++all++ that apply.",
+        "qType": "MC",
+        "answers": ["Whole numbers","Integers","Fractions and decimals"],
+        "correct_answer":[0,1,2],
+        "explanation": "The correct answers are {0}, {1}, and {2}. The student's conjecture can be represented by the equation (a ÷ b) × b = b, where a and b are numbers. Based on the order of operations, the left-hand side of the equation can be written as a ÷ b × b , and since multiplication and division by the same number are inverse operations, it is true in general that (a ÷ b) × b = a, with one exception. The exception is when b = 0 , since division by zero is undefined. However, the question excludes division by zero, so the student's conjecture is true for whole numbers, integers, and fractions and decimals. Whole numbers are the numbers 0 1, ,,, 2 3… , and integers are positive and negative whole numbers."
+      },
+      {
+        "question": "A student found an incorrect answer to the problem ^3^/~4~+^5^/~6~. The student's answer is represented in the work shown.\n![math prob]({{require('@/assets/7801_8_math_image.png')}})\nWhich of the following student work samples shows work that is most similar to the preceding work?",
+        "answers": ["![math ans]({{require('@/assets/7801_5_math_a.png')}})","![math ans]({{require('@/assets/7801_5_math_b.png')}})","![math ans]({{require('@/assets/7801_5_math_c.png')}})","![math ans]({{require('@/assets/7801_5_math_d.png')}})"],
+        "correct_answer":3,
+        "explanation": "The correct answer is {3}. When the student answered the problem ^3^/~4~+^5^/~6~, the student first correctly found equivalent fractions to ^3^/~4~ and ^5^/~6~ that shared the least common denominator. However, the student then incorrectly added the fractions by adding the denominators to get an answer of ^19^/~24~ rather than using the common denominator, which would have led to the correct answer of ^19^/~12~. Similarly, in {3}, the work shows that the student correctly found equivalent fractions that shared the least common denominator, but the student then incorrectly added the fractions by adding the denominators. The work in {0} is different because the student finds the least common denominator, but the rewritten fractions are not equivalent to the original fractions. The work in {1} is different because the student does not find the least common denominator, and then the student correctly adds the fractions. The work in {2} is different because the student did not correctly find equivalent fractions that shared the least common denominator."
+      },
+      {
+        "question": "```\nRosana had a total of 9 shirts. She gave 2 to Emily. How many shirts does  Rosana have now?\n```\nWhich of the following problems has the same mathematical structure as the problem above?",
+        "answers": ["Rosana used 7 paint colors for her project. Emily used 2 different paint colors for her project. How many paint colors did Rosana and Emily use together? ","Rosana has some books. She bought 1 more book. Now she has 8 books. How many books did Rosana start with?","Rosana has a total of 3 stickers. Emily has 6 more stickers than Rosana. How many stickers does Emily have?","Rosana brought 5 cookies for lunch. How many cookies did she have after she ate 4 of the cookies?"],
+        "correct_answer":3,
+        "explanation": "The correct answer is {3}. In the original problem, an initial quantity is given, a portion of it is taken away, and the problem asks for the resulting quantity. (D) has the same structure. In the problem in {0}, two parts are given (the paint colors Rosana used and the paint colors that Emily used), and the problem asks for the whole. In the problem in {1}, the initial quantity is unknown, an additional book is joined to that quantity, and the end result is given. In the problem in {2}, an initial quantity is given (Rosana's stickers), the amount by which it differs from a second quantity (Emily's stickers) is also given, and the problem asks for the size of the second quantity (Emily's stickers). While this problem, like the original one, can be solved directly by subtraction, the structure reflects a comparison rather than a reduction of quantity, and the information is presented in a different order."
+      },
+      {
+        "question": "Ms. Hayes asked her students to calculate the difference 0.7 − 0.07 by converting the decimals into base-ten fractions.\nOne student, Daryl, answered the problem as represented in the work shown.\n![math prob]({{require('@/assets/7801_10_math_image.png')}})\nWhen Ms. Hayes asked Daryl to explain his strategy, he said, \"The answer is 63 hundredths. I wrote the decimals 7 tenths and 7 hundredths as fractions and subtracted them. Since I wanted the denominators to be the same, I added a zero to the first 7 and a zero to 10. 70 hundredths minus 7 hundredths is 63 hundredths.\"\nWhich of the following changes to Daryl's explanation is best for clarifying the mathematics that underlie his strategy?",
+        "answers": ["He should indicate why ![math ans]({{require('@/assets/7801_10_math_a.png')}}) and ![math ans]({{require('@/assets/7801_10.1_math_a.png')}}).","He should point out that ![math ans]({{require('@/assets/7801_10_math_b.png')}}).","He should point out that ![math ans]({{require('@/assets/7801_10_math_c.png')}}).","He should indicate why ![math ans]({{require('@/assets/7801_10_math_d.png')}})"],
+        "correct_answer": 1,
+        "explanation": "The correct answer is {1}. When Daryl tried to explain why ^7^/~10~ = ^70^/~100~, what he really said was that ^7+0^/~10+0~ =^70^/~100~. However, 70 comes from multiplying 7 by 10, and 100 comes from multiplying 10 by 10, so a better explanation would be to say that he had to multiply the numerator and denominator of ^7^/~10~ by 10 to obtain the equivalent fraction ^70^/~100~. {0} is incorrect because Daryl clearly conveyed that 0.7 = ^7^/~10~ and 00.7 = ^7^/~100~ by referring to the decimals 0.7 and 0.07 as 7 tenths and 7 hundredths, respectively, which linked each of the two decimal numbers to its corresponding base-ten fraction. {2} is incorrect because Daryl did point out that ^70^/~100~-^7^/~10~=^70-7^/~100~ when he said, \"70 hundredths minus 7 hundredths is 63 hundredths.\" {3} is incorrect because Daryl referred to the decimal 0.63 as 63 hundredths, which was a direct link to the base-ten fraction ^63^/~100~."
+      },
+      {
+        "question": "Mr. Bass is working on defining quadrilaterals with his students. He notices that many students are focused on the number of sides, saying things like \"a quadrilateral is a shape with four sides.\"\nWhich ++two++ of the following figures are most likely to support students in refining their definition of quadrilaterals?",
+        "qType": "MC",
+        "answers": ["![math ans]({{require('@/assets/7801_11_math_a.png')}})","![math ans]({{require('@/assets/7801_11_math_b.png')}})","![math ans]({{require('@/assets/7801_11_math_c.png')}})","![math ans]({{require('@/assets/7801_11_math_d.png')}})"],
+        "correct_answer":[0,2],
+        "explanation": "The correct answers are {0} and {2}. The figure in {0} has four sides, but one side is curved, which highlights the need to clarify that the sides of quadrilaterals must be line segments. The figure in {2} has four sides but is not closed, which highlights the need to clarify that quadrilaterals are closed figures. {1} is not a correct choice because the students would correctly say the figure is not a quadrilateral since it does not have four sides, so it would not support the students in refining their definition of quadrilaterals. {3} is not a correct choice because, based on their definition, the students would correctly say that it is a quadrilateral, so it would not support the students in refining their definition of quadrilaterals."
+      },
+      {
+        "question": "Ms. Howe's students are learning how to use models to help them answer word problems. The models use bars to represent the relationships between the given quantities and the unknown quantity. In each model, the unknown quantity is represented with a question mark. The quantities given in the word problem will occupy the other boxes.\nMs. Howe presents the following word problem to her students.\n```\nMax had $24. He gave 1/3 of his money to Sarah and the rest to Olivia. How much money did he give to Olivia?\n```\nWhich of the following models best corresponds to the given word problem?",
+        "answers": ["![math ans]({{require('@/assets/7801_12_math_a.png')}})","![math ans]({{require('@/assets/7801_12_math_b.png')}})","![math ans]({{require('@/assets/7801_12_math_c.png')}})","![math ans]({{require('@/assets/7801_12_math_d.png')}})"],
+        "correct_answer":2,
+        "explanation": "The correct answer is {2}. First, since it is known that Max had $24, the model should show that the total amount is known. Next, since Max gave ^1^/~3~ of his money to Sarah, the model should show that the total is divided in thirds. Finally, the model should show that the money given to Olivia, which is ^2^/~3~ of the total amount, is the unknown. {2} is the only choice that shows that the total amount would be filled in, the total amount is divided in thirds, and the unknown is ^2^/~3~ of the total amount. {0} is incorrect because it shows that the unknown is the total amount, which is not true. (B) is incorrect because it shows that the unknown is the smaller part of the whole, which is incorrect. Also, note that in both {0} and {1}, all that is given is that one part is larger than the other, not that one part is ^2^/~3~ of the whole and the other part is ^1^/~3~ of the whole. {3} is incorrect because it shows that the unknown is the total amount, which is not true."
+      },
+      {
+        "question": "Ms. Kress asked her students to compare ^1^/~3~ and ^7^/~8~. Four of her students correctly answered that ^7^/~8~ is greater than ^1^/~3~, but they gave different explanations when asked to describe their strategies to the class.\nIndicate whether each of the following student explanations provides evidence of a mathematically valid strategy for comparing ^1^/~3~ and ^7^/~8~.",
+        "qType": "TF",
+        "type_labels":["Provides Evidence","Does Not Provide Evidence"],
+        "answers": ["When you look at the numbers, you see that 7 is bigger than 1, so ^7^/~8~ is the bigger fraction.","In the first fraction, 1 is less than half of 3, but in the second, 7 is more than half of 8, so ^7^/~8~ is larger than ^1^/~3~.","I multiplied 1 times 7 and 3 times 7, so ^1^/~3~ is the same as ^7^/~21~. This means that ^7^/~8~ is bigger than ^1^/~3~ because ^1^/~8~ is bigger than ^1^/~21~.","I wanted to make a fraction equal to ^1^/~3~ with the same bottom number as ^7^/~8~ , so I added 5 to 3 and got 8. Then I added 5 to 1 and got 6, but 7 is greater than 6, so ^7^/~8~ is greater."],
+        "correct_answer":[1,2],
+        "explanation": "The first and fourth explanations do not provide evidence of a mathematically valid strategy for comparing ^1^/~3~ and ^7^/~8~, but the second and third explanations do. In the first explanation, the student only compares the numerators of the fractions, which is not a valid strategy because it does not take into account the effect of the denominator on the size of the pieces. In the second explanation, the student compares both fractions to the benchmark fraction ^1^/~2~, which is a valid strategy since ^1^/~3~ is less than ^1^/~2~ and ^7^/~8~ is greater than ^1^/~2~. In the third explanation, the student uses multiplicative reasoning to find a common numerator, and then the student compares the fractions by reasoning about the sizes of the unit fractions ^1^/~8~ and ^1^/~21~. This is a valid strategy. In the fourth explanation, the student uses additive reasoning to try to find a fraction equivalent to ^1^/~3~ that has a denominator of 8, but ^6^/~8~ is not equivalent to ^1^/~3~, so this strategy is not valid."
+      },
+      {
+        "pre_question_instruction":"",
+        "pre_question_text":"A lower elementary grade class has been studying the weather. Below are some data that the students have collected.\n![table]({{require('@/assets/7801_1_sci_table.png')}})",
+        "question": "Which of the following representations would best help the students describe the relationship between time of day and temperature?",
+        "answers": ["![chart]({{require('@/assets/7801_1_sci_a.png')}})","![chart]({{require('@/assets/7801_1_sci_b.png')}})","![chart]({{require('@/assets/7801_1_sci_c.png')}})","![chart]({{require('@/assets/7801_1_sci_d.png')}})"],
+        "correct_answer":1,
+        "explanation": "The correct answer is {1}. This question tests your ability to select a graphical representation of data that will reveal a possible relationship between two specific variables. For the activity described, the graph in choice {1} is the best representation of the students’ data because it reveals how temperature changed during the day for each of five different days, which will allow the students to identify the relationship between time of day and temperature. In contrast, the other graphs are not as useful for revealing the relationship between time of day and temperature. The graph in choice {0} shows the average temperature for each of five different days but does not reveal how the temperature changed during any of those days. Similarly, the graph in choice {2} shows the morning temperature for each of five different days but does not reveal how the temperature changed during any of those days. The graph in choice {3} shows how the temperature at a particular time of day changed over five consecutive days, but the graph is not the best representation for identifying a pattern in how the temperature changed during each of those days."
+      },
+      {
+        "question": "Which of the following sets of resources will best support a lower elementary investigation of shadows cast by different materials?",
+        "answers": ["Three students of different heights and a meterstick to measure the lengths of the shadows cast by the students at different times of the day","A light source, sheets of clear plastic, different colored plastics, paper, and cardboard to use for casting shadows against a wall in a darkened classroom","A light source, three different wooden objects, and a ruler to measure the varying lengths of the shadows cast by the objects as they are repositioned closer or farther away from the light source","Sheets of black paper to use to draw and cut out silhouettes that are then pasted on sheets of white paper"],
+        "correct_answer":1,
+        "explanation": "The correct answer is {1}. This question tests your ability to select the resources needed for an investigation of shadows cast by different materials. The resources presented in {1} are sufficient for the investigation because they include a light source and objects made of different materials, including plastic, paper, and cardboard. The resources presented in {0}, which are more appropriate for an investigation of how the Sun’s position in the sky affects shadow length, do not include a light source or objects made of different materials. The resources presented in {2}, which are more appropriate for an investigation of shadows cast by objects with different shapes, include only objects made of wood. The resources presented in {3}, which are more appropriate for reinforcing the idea that shadows are two-dimensional representations of threedimensional objects, do not include a light source or objects made of materials other than paper."
+      },
+      {
+        "question": "Mr. Mikeska wants his students to understand that the preserved remains of plants and animals can provide information about how a particular location on Earth has changed over long periods of geologic time. To illustrate the concept, Mr. Mikeska will guide his students through a classroom activity on the Atacama Desert region in western Chile.\nWhich of the following materials for the activity will best help Mr. Mikeska’s students achieve the stated learning objective?",
+        "answers": ["Photographs of the Atacama Desert that show fossils of fish in a rock layer","A short video showing archaeologists excavating a site in the Atacama Desert","An interview with astronomers who work at the new observatory in the Atacama Desert","Clay models that show the special adaptations of different types of Atacama Desert plants"],
+        "correct_answer":0,
+        "explanation": "The correct answer is {0}. This question tests your ability to develop activities that will help students achieve specific learning objectives. The materials described in {0} will best help the students achieve the stated learning objective because the students will have an opportunity to link the observation of fossils, such as fish fossils found in an area that has become a desert, to the idea that fossils can provide evidence of environmental change over time. The other choices describe materials that are more appropriately linked to ideas outside the teacher’s stated learning objective. The materials described in {1} are more appropriate for a lesson on the study of human history by archaeologists. The materials described in {2} are more appropriate for a lesson on the methods astronomers use to study celestial objects and phenomena. The materials described in {3} are more appropriate for a lesson on how plants are adapted to their environments."
+      },
+      {
+        "pre_question_instruction":"",
+        "pre_question_text":"A group of students builds the circuit shown in the diagram.\n![table]({{require('@/assets/7801_4_sci_image.png')}})",
+        "question": "In which of the following statements does the student provide evidence that energy transfer occurs in the circuit?",
+        "answers": ["Bryan: The battery is a source of stored energy, and the energy inside the battery is able to flow through the circuit when everything is connected properly.","Taira: I know energy was transferred because the lightbulb was lit. Energy from the battery was transferred into light energy.","Ravi: Since the switch is closed, energy can travel from the battery through the whole circuit.","Natalie: The wires are metal so they are conductors. This lets them transfer energy from the battery through the circuit."],
+        "correct_answer":1,
+        "explanation": "The correct answer is {1}. This question tests your ability to identify statements that cite relevant evidence in support of a claim. The statement in {1} correctly cites the lit lightbulb as evidence that energy stored in the battery was transformed into light energy. In contrast, the statements in {0}, {2}, and {3} cite prior knowledge about circuits but do not cite evidence to support the claim that energy transfer occurred in the circuit."
+      },
+      {
+        "pre_question_instruction":"",
+        "pre_question_text":"Ms. Smith is beginning an instructional unit on where the energy for living things comes from for her lower elementary grade students. She has found several diagrams available online to help introduce the unit, but she only has time to use one diagram in her class lesson.\n![table]({{require('@/assets/7801_5_sci_diagram_a.png')}})\n![table]({{require('@/assets/7801_5_sci_diagram_b.png')}})",
+        "question": "Which diagram should Ms. Smith use for her class presentation, and what is the best rationale for using the diagram?",
+        "answers": ["Diagram A, because it shows many relationships between the animals and food sources.","Diagram A, because all energy in animals’ food starts with plants.","Diagram B, because hand-drawn pictures are more accessible to students.","Diagram B, because all energy in animals’ food was once energy from the Sun."],
+        "correct_answer":3,
+        "explanation": "The correct answer is {3}. This question tests your ability to select instructional materials that sufficiently address a specific scientific concept. As described in the question, a teacher is trying to decide which of two diagrams is more appropriate for an instructional unit on the energy sources that support living things. Choice {3} correctly identifies diagram B as more appropriate for the unit and provides a rationale that the diagram explicitly represents the Sun as the source of the energy flowing through a food chain. Choice {0} incorrectly identifies diagram A as more appropriate and provides an irrelevant rationale that the diagram represents many different feeding relationships. Choice {1} incorrectly identifies diagram A as more appropriate and provides an incorrect rationale that plants are the ultimate source of the energy flowing through all ecosystems. Choice {2} correctly identifies diagram B as more appropriate but provides an irrelevant rationale that hand-drawn pictures are more accessible to students."
+      },
+      {
+        "pre_question_instruction":"",
+        "pre_question_text":"A teacher presents the following challenge to teams of second-grade students.\n1. Build a bridge using 100 building bricks only.\n2. Test the bridge to see how much weight it can hold.\n3. Record your data.\n4. Refine your bridge design so that it can carry more weight.\n\nThe teacher visits teams of students as they work and asks how they might improve their design.",
+        "question": "Which student response most clearly shows an understanding of the design problem and its constraints?",
+        "answers": ["“We need to use a lot more building bricks to make the bridge stronger.”","“We think taping the building bricks together would make it hold more.”","“We could make the sides of the bridge thicker and the road narrower.”","“We want to change from using building bricks to using wood blocks.”"],
+        "correct_answer":2,
+        "explanation": "The correct answer is {2}. This question tests your ability to evaluate students’ ideas for solving a particular problem using an engineering design process. The response presented in {2} shows the best understanding of the design problem and its constraints because the student proposes a change to the design that could be implemented without additional materials. The changes proposed in the other responses would require additional materials, such as more building bricks {0}, tape {1}, or wood blocks {3}. By proposing changes to the design that would require additional materials, the students are demonstrating that they do not understand the constraints of the teacher’s challenge."
+      },
+      {
+        "pre_question_instruction":"",
+        "pre_question_text":"Students are provided with the data table shown below and are asked to create a pie chart showing how much of Earth’s freshwater is available for drinking.\n![table]({{require('@/assets/7801_7_sci_table.png')}})",
+        "question": "Which of the following points will best help students decide how to organize their charts?\nSelect ++three++ points.",
+        "type": "MC",
+        "answers": ["Some lakes are freshwater and some lakes are salt water.","Reservoirs that do not contain freshwater can be left out of the chart.","The water in the Arctic Ocean is mostly under the Arctic ice cap.","Some freshwater is not available for use by organisms.","Several reservoirs with small volumes can be combined."],
+        "correct_answer":[1,3,4],
+        "explanation": "The correct answers are {1}, {3}, and {4}. This question tests your ability to identify information that will help students create a graphical representation of data. The students are given a task of creating a pie chart showing the portion of Earth’s freshwater that is available for drinking. The information in {1} is relevant to the task because the students should create the pie chart using the data about freshwater but not about salt water. The information in {3} is relevant to the task because the students need to determine which reservoirs listed in the data table contain freshwater that is available for drinking. The information presented in {4} is relevant to the task because the pie chart created by the students will be easier to interpret if the students combine the data about reservoirs containing similar types of freshwater. The information in {0} is not relevant to the task because the students should not use the data for saline lakes when creating the pie chart. The information in {2} is not relevant to the task because the students should not use the data for oceans, which contain salt water, when creating the pie chart."
+      },
+      {
+        "pre_question_instruction":"",
+        "pre_question_text":"A student’s shadow was traced at various times throughout the day. The following image shows the results.\n![table]({{require('@/assets/7801_8_sci_image.png')}})\nWhen interpreting the patterns, one student stated that the tracing for number 4 was drawn at midday because it is the longest and faces more toward the east.",
+        "question": "Which ++two++ of the following questions could the teacher ask to help the student clarify his thinking about the relationship of the shadows to the daily movement pattern of the Sun in the sky?",
+        "type": "MC",
+        "answers": ["In what direction does the Sun set?","How does the height of the student affect the difference in the four tracings?","Why are some shadows longer than others?","How would your shadows look different in the middle of winter?","How do your drawings compare with those of other students?"],
+        "correct_answer":[0,2],
+        "explanation": "The correct answers are {0} and {2}. This question tests your understanding of how to guide students toward correcting misconceptions. In the activity described, a student has incorrectly concluded that the longest of four shadows was created at midday, when the Sun was high in the sky. By responding to the question posed in {0}, the student will have an opportunity to realize that the shadows cast by the student always pointed away from the Sun’s position in the sky, and that the longest of the four shadows pointed to the northeast. By responding to the question posed in {2}, the student will have an opportunity to realize that the longest shadows observed in the activity were cast when the Sun was low in the sky. Responding to the questions posed in the other choices will not help the student understand how the Sun’s position in the sky affects shadow length. The question posed in {1} is more appropriate for clarifying that the height of the student casting the shadows did not change during the activity. The question posed in {3} is more appropriate for understanding how the Sun’s position in the sky changes with the seasons. The question posed in {4} is more appropriate for identifying a potential source of error in the investigation."
+      },
+      {
+        "pre_question_instruction":"",
+        "pre_question_text":"Ms. Ling is designing an inquiry activity for her early elementary classroom that will require students to make physical models of bird beaks using spoons and toothpicks. The students will use the models to pick up objects of different sizes and shapes that represent different types of food. Students will use their observations to determine which beak model is best to pick up each food type.",
+        "question": "This activity will best reinforce which of the following ideas?",
+        "answers": ["Plants and animals have different requirements depending on where they live.","Plants and animals can change the environment to meet their needs.","Matter cycles through plants, animals, decomposers, and the environment.","Plants and animals have specialized characteristics that help them perform specific tasks."],
+        "correct_answer":3,
+        "explanation": "The correct answer is {3}. This question tests your ability to link an idea with a particular classroom activity. The idea presented in {3} is appropriately linked to the activity described in the question because the activity provides students with an opportunity to investigate how beak shape and size, which are specialized characteristics, affect a bird’s ability to pick up different objects, which is a specific task. The ideas presented in the other choices are not appropriately linked to the activity described. For example, the activity does not provide students with an opportunity to compare the requirements of birds living in different places {0}, to investigate whether birds can change their environment to meet their needs {1}, or to explore how matter cycles through different ecosystems {2}."
+      },
+      {
+        "pre_question_instruction":"",
+        "pre_question_text":"Four teams of students worked with two bar magnets each. Each team performed three trials testing one magnet’s ability to attract the other through the following objects: a single index card, a stack of four index cards, and a box containing four crayons. The experimental design is represented in the figure.\n![image]({{require('@/assets/7801_10_sci_image.png')}})\nAll four teams observed that the magnetic attraction was weaker as the number of index cards was increased and even weaker when the box of crayons was used. The students then proposed questions that they felt would help them interpret their results.",
+        "type": "MC",
+        "question": "Investigating which ++two++ of the following questions will provide the students with the most useful information?",
+        "answers": ["Would replacing the box of crayons with the same thickness of index cards make a difference?","How are bar magnets different from horseshoe magnets?","Did we follow the step-by-step directions for the experiment correctly?","Will increasing the distance between the magnets affect the attraction even if nothing is placed between the magnets?","What would happen if we put the crayons inside the box in a different order from left to right?"],
+        "correct_answer":[0,3],
+        "explanation": "The correct answers are {0} and {3}. This question tests your ability to identify scientific questions that will lead to a better understanding of a natural phenomenon. In the activity described, students are designing experiments to investigate how different factors affect the attraction between two bar magnets. By investigating the scientific question posed in {0}, the students will test whether they introduced an uncontrolled variable into their initial experiment by using different objects (index cards and a box of crayons) to separate the two bar magnets. By investigating the scientific question posed in {3}, the students will test whether changing the distance between the two bar magnets will affect the strength of the magnetic attraction even when no objects are placed between the magnets. Investigating the questions posed in the other choices will not help the students interpret their results. The scientific question posed in {1} is not relevant to the investigation because it focuses on the differences between bar magnets and horseshoe magnets. Investigating the scientific question posed in {2} will not generate new information because the students already know that the four teams obtained similar results, indicating that human error was not a contributing factor. Investigating the question posed in {4} will not generate new information because the experiment will be the same as before, especially if the bar magnets are the same distance apart and are separated by the same box of crayons."
+      },
+      {
+        "question": "Which of the following mountain ranges crosses through the state of Washington?",
+        "answers": ["The Cascades","The Himalayas","The Appalachians","The Alps"],
+        "correct_answer":0,
+        "explanation": "The correct answer is {0}. The Cascade Mountains crosses through the state of Washington."
+      },
+      {
+        "question": "Which of the following types of maps shows the boundaries of countries, states or municipalities?",
+        "answers": ["Thematic","Topographic","Political","Meteorological"],
+        "correct_answer":2,
+        "explanation": "The correct answer is {2}. A political map shows boundaries of countries, states, and municipalities. A thematic map presents specific information related to a geographic area, such as the location of natural resources. A topographic map shows the physical features of the land. A meteorological map presents information about weather and climate."
+      },
+      {
+        "question": "Which of the following is believed to have occurred during the last Ice Age as a result of a land bridge created between what are now Siberia and Alaska?",
+        "answers": ["The invention of new technologies for sheltering humans against sustained cold","The blockage of important trade routes","The establishment of human settlements in North America","Widespread famine"],
+        "correct_answer":2,
+        "explanation": "The correct answer is {2}. During the Ice Age, the level of the water in the Pacific Ocean lowered, thereby exposing a land bridge across the Bering Strait. The cold northern climate encouraged many people to migrate throughout the continent in search of better living conditions."
+      },
+      {
+        "question": "Since the end of the United States Civil War in 1865, all of the following have been major objectives of groups seeking civil rights for Black people EXCEPT",
+        "answers": ["passage of affirmative action legislation","desegregation of public educational facilities","creation of a third party in national politics","passage of antilynching laws"],
+        "correct_answer":2,
+        "explanation": "The correct answer is {2}. The creation of a third party in national politics would be a political action, not one of civil rights."
+      },
+      {
+        "question": "The legal doctrine known as “separate but equal” was overturned by the Supreme Court’s ruling in which of the following cases?",
+        "answers": ["Plessy v. Ferguson","Brown v. Board of Education of Topeka","Miranda v. Arizona","Mapp v. Ohio"],
+        "correct_answer":1,
+        "explanation": "The correct answer is {1}. In Brown v. Board of Education of Topeka, the Supreme Court ruled that segregating schools on the basis of race was inherently discriminatory. This decision overturned the precedent set by Plessy v. Ferguson, which had upheld the constitutionality of racial segregation in public facilities."
+      },
+      {
+        "question": "In the United States, the division of power between the national and state governments demonstrates the principle of",
+        "answers": ["checks and balances","federalism","separation of powers","the rule of law"],
+        "correct_answer":1,
+        "explanation": "The correct answer is {1}, federalism. Federalism is the division of power between a central government and constituent governments, called states in the United States. Checks and balances refers to the constitutional arrangement of powers that prevents one branch of the government from becoming too powerful. Separation of powers refers to the division of power among the three branches of the United States government. The rule of law is the principle which holds that no person is above the law."
+      },
+      {
+        "question": "What percent of the seats in the United States House of Representatives are up for election every two years?",
+        "answers": ["33%","50%","66%","100%"],
+        "correct_answer":3,
+        "explanation": "The correct answer is {3}. Article 1, Section 2 of the Constitution of the United States reads, “The House of Representatives shall be composed of Members chosen every second Year by the People... .” All members of the House are elected at the same time every two years."
+      },
+      {
+        "question": "Historically, India’s society has been organized into hierarchical groups known as",
+        "answers": ["tribes","castes","clans","denominations"],
+        "correct_answer":1,
+        "explanation": "The correct answer is {1}. In the fifteenth century AD, explorers from Portugal encountered the social system of India and called these groups “castes.” As time went on, the four basic castes gradually grew more complex, with hundreds of subdivisions."
+      },
+      {
+        "question": "Which of the following major world religions is monotheistic?",
+        "answers": ["Hinduism","Buddhism","Islam","Shintoism"],
+        "correct_answer":2,
+        "explanation": "The correct answer is {2}. Of the major world religions listed, Islam is the only one that is monotheistic. Each of the other religions listed has as a central tenet a belief in more than one deity."
+      },
+      {
+        "pre_question_instruction":"",
+        "pre_question_text":"![chart]({{require('@/assets/7801_10_ss_chart.png')}})",
+        "question": "According to the graph above, how many of the countries shown produced more crude oil in 1975 than in 1974?",
+        "answers": ["1","2","3","4"],
+        "correct_answer":1,
+        "explanation": "The correct answer is {1}. Since the numbers on the left side of the graph increase from bottom to top, it is a matter of determining how many shaded bars are higher than their corresponding striped bars."
+      },
+      {
+        "question": "Jane is saving to buy a new car. Her friends are planning a weekend trip to the beach. She wants to go, but decides that saving for the car is more important. Jane’s choice best demonstrates which of the following economic concepts?",
+        "answers": ["Opportunity cost","Supply and demand","Scarcity of resources","Comparative advantage"],
+        "correct_answer":0,
+        "explanation": "The correct answer is {0}. Opportunity cost is the value of what is forgone when an economic choice is made. In this example, the opportunity cost of saving for the car is forgoing a weekend trip with friends."
+      }
     ]
   },
   "5543": {
@@ -312,6 +883,144 @@
     "time_limit": 150,
     "max_questions": 90,
     "questions": [
+      {
+        "question": "Sharmaine is a second-grade student who has been found eligible for special education under the classification of intellectual disability. SHe receives daily mathematics instruction in a resource room. Her special education teacher wants to introduce Sharmaine to the addition of single digit numbers. Which of the following strategies would be the best activity to use?",
+        "answers": ["Make a ten","Skip counting","Counting backward","Front-end addition"],
+        "correct_answer":0,
+        "explanation": "The correct answer is {0}. \"Make a ten\" is a strategy for learning addition facts, which would be developmentally appropriate for Sharmaine. {1} is incorrect because skip counting is a precursor to multiplication, not addition. {2} is incorrect because counting backward is a prerequisite to subtraction. {3} is incorrect because front-end addition is a skill used to estimate when adding large-digit numbers."
+      },
+      {
+        "question": "The least restrictive environment (LRE), as defined in IDEA, requires that students with a disability be",
+        "answers": ["educated with nondisabled peers only for elective courses","educated with nondisabled peers to the greatest extent possible","educated in a special school so that there is no interaction with nondisabled peers","educated with the most assistance, whether or not it be in the same environment as with nondisabled peers"],
+        "correct_answer":1,
+        "explanation": "The correct answer is {1}. IDEA ensures that students are not unnecessarily removed from the general classrrom or isolated from nondisabled students of their age. These decisions are made based on a student's ability to function in the school environment. {0}, {2}, and {3} do not match the definition of least-restrictive environment."
+      },
+      {
+        "question": "Toni is a seventh-grade student classified with a specific learning disability (SLD). Her science teacher states that she is an active participant in class, completes homework on time, but her reading comprehension is below grade level. A chapter test is planned for next week. Which of the following assessment accommodations would be most appropriate for Toni's individual eduation program (IEP)?",
+        "answers": ["Allowing the use of a dictionary to check spelling","Reading the test aloud to her","Administering the test to her in a separate room","Providing her frequent breaks during testing"],
+        "correct_answer":1,
+        "explanation": "The correct answer is {1}. Toni comprehends the material presented in class; thus, reading the test to her would eliminate the struggle to read the questions and allow her to focus on the content of the test. {0} is incorrect because Toni's disability is in the area of reading comprehension and a dictionary would not be an appropriate accommodation. {2} is incorrect because there is no indication that Toni is suffering from test anxiety or another condition that would be alleviated by testing in a separate room. {3} is incorrect because there is no indication that Toni has difficulty concentrating or any other that would require frequent breaks."
+      },
+      {
+        "question": "Trish is a sixth-grade student who is diagnosed with autism spectrum disorder (ASD). She has difficulty maintaining eye contact and makes impulsive comments during lessons. Which of the following behavioral strategies would best help Trish?",
+        "answers": ["Assigning Trish a peer buddy to help her keep on task","Providing Trish a visual menu of appropriate behaviors","Seating Trish next to the window so she can look outside","Giving Trish high-interest, low-reading-level assignments"],
+        "correct_answer":1,
+        "explanation": "The correct answer is {1}. Using a visual reminder can increase appropriate behaviors, such as maintaining eye contact and reducing impulsive contacts, in students with autism spectrum disorder (ASD). {0} is incorrect because there is no indication that Trish needs help staying on task. {2} is incorrect because being able to look outside would not address the behavioral problems of maintaining eye contact or making impulsive comments. {3} is incorrect because high-interest, low-reading-level assignments are appropriate for a student who is not reading on grade level, and Trish is able to complete grade-level assignments."
+      },
+      {
+        "question": "Isaac is a fourth-grade student who has been classified with a mild intellectual disability. He struggles to complete assignments independently, requires redirection to keep on task, and needs to be constantly reminded of the classroom rules. Which of the following is required before a behavior intervention plan (BIP) can be developed?",
+        "answers": ["Hiring a paraprofessional to work with Isaac","Conducting a functional behavioral assessment","Assigning homework less frequently","Applying the current behavior reward system"],
+        "correct_answer":1,
+        "explanation": "The correct answer is {1}. Under federal law the team must conduct a functional behavioral assessment (FBA) before the implementation of a behavior intervention plan. {0} is incorrect because paraprofessional provide academic support, not behavioral intervention. {2} is incorrect because it does not address the behavior problems. {3} is incorrect because it is not a required step to implementing a behavior intervention plan."
+      },
+      {
+        "question": "Under IDEA, which of the following age-groups are qualified to receive early-intervention services?",
+        "answers": ["0-3 years","3-4 years","5-6 years","7-8 years"],
+        "correct_answer":0,
+        "explanation": "The correct answer is {0}. According to Part C of IDEA, students qualify for early-intervention services from birth through 2 years of age."
+      },
+      {
+        "question": "Which of the following rewards would be most appropriate for fifth-grade students who have demonstrated appropriate classroom behavior?",
+        "answers": ["Giving them ice-cream sandwiches as an afternoon treat","Assigning no homework for an entire week","Excusing them from the next chapter test","Providing extra computer time"],
+        "correct_answer":3,
+        "explanation": "The correct answer is {3}. Extra computer time is an appropriate motivating reward for a fifth-grade student. {0} is incorrect because many schools do not allow food as a reward. {1} is incorrect because homework is a key part of learning, and although a homework pass for one night might be an appropriate reward, a week without homework is too generous. {2} is incorrect; excusing students from a chapter test is not an appropriate reward."
+      },
+      {
+        "question": "Which co-teaching model is demonstrated when the lead and support teachers each deliver a lesson to separate groups of students?",
+        "answers": ["Complementary teaching","Alternative teaching","Parallel teaching","Shared teaching"],
+        "correct_answer":2,
+        "explanation": "The correct answer is {2}. In parallel teaching, the lead and support teachers each deliver a lesson to a separate group of students. {0} is incorrect because complementary teaching occurs when the lead teacher presents a group lesson to the class and the support teacher assists or pulls a small group for instruction. {1} is incorrect because alternative teaching uses remedial or enrichment lessons delivered to the whole class. {3} is incorrect because shared teaching techniques involve both teachers presenting the lesson simultaneously to the whole class."
+      },
+      {
+        "question": "Which of the following is a required component of an individualized education program (IEP)?",
+        "answers": ["Functional behavior assessment","Behavior intervention plan","Daily class schedule","Annual goals"],
+        "correct_answer":3,
+        "explanation": "The correct answer is {3}. According to IDEA, annual goals must be included in an individualized education program. {0} is incorrect because a functional behavior assessment is not a required component, although it may be included if the student requires one, depending on classification. {1} is incorrect because a behavior intervention plan is a separate document from an IEP. {2} is incorrect because, although a daily class schedule is important, it is not part of the IEP document."
+      },
+      {
+        "question": "Jerrie is a 10-year-old girl who scores within the average range for her age on both intelligence tests and achievement tests but has difficulty completing tasks in school due to a lack of focus and impulsive behaviors. These symptoms are most consistent with a diagnosis of",
+        "answers": ["oppositional defiant disorder (ODD)","traumatic brain injury (TBI)","attention-deficit/hyperactivity disorder (ADHD)","specific learning disability (SLD)"],
+        "correct_answer":2,
+        "explanation": "The correct answer is {2}. The primary symptoms of attention-deficit/hyperactivity disorder (ADHD) are impulsivity and inattention. {0} is incorrect because the primary symptoms are poor peer relationships due to negative, hostile, and vindictive ways. {1} is incorrect because this diagnosis is characterized by brain damage, whereas Jerrie scores within the average range of intelligence. {3} is incorrect because an individual with a specific learning disability would have difficulty with academics but not necessarily with inattenion or impulsiveness."
+      },
+      {
+        "question": "Seating students ina semicicle is most beneficial in which of the following ways?",
+        "answers": ["Students can easily work in small groups","The teacher can easily monitor each student","Students can leave the classroom quickly","The desks fit better in the classroom"],
+        "correct_answer":1,
+        "explanation": "The correct answer is {1}. The semicircle seating arrangement allows the teacher to see and have easy access to all of the students, in addition to monitoring their progress and behavior. {0} is incorrect because it does not describe a benefit. {2} is incorrect because this seating arrangement does not allow students to leave the room more quickly than any other arrangement. {3} is incorrect because this arrangement does not make the desks fit better in the classroom."
+      },
+      {
+        "question": "Justin is a second-grade student who has a classification of mild intellectual disability. What is an advantage of seating him in a cooperative cluster?",
+        "answers": ["Justin will be able to participate more in classroom discussions","Justin will be in closer proximity to the teacher","Justin can work with a partner if he has questions","Justin can sit near the window"],
+        "correct_answer":2,
+        "explanation": "The correct answer is {2}. Cooperative clusters allow students to work together to complete a task with the teacher facilitating. {0} is incorrect because just by sitting him in a cooperative cluster will not increase his chances of participating. {1} is not correct because sitting in a cooperative cluster does not necessarily mean he will be closer to the teacher. {3} is incorrect because sitting near a window is likely to be a distraction for a student with a mild intellectual disability."
+      },
+      {
+        "question": "Which of the following activities is the best example of a summative assessment?",
+        "answers": ["An end of chapter test","Writing sentences using spelling words","Completing a homework assignment","Completing a cloze activity"],
+        "correct_answer":0,
+        "explanation": "The correct answer is {0}. Summative assessments are given to test student learning relative to the curriculum and a chapter test assess knowledge of the entire chapter. {1} is incorrect because writing sentences is not the best activity to use as a summative assessment. {2} is incorrect because homework is a follow-up to classroom instruction. {3} is incorrect because it related to language arts instruction."
+      },
+      {
+        "question": "Which of the following is the best example of differentiating instruction?",
+        "answers": ["Exempting half the class from a homework assignment","Assigning different students to read certain chapters of a read-aloud book","Asking all the boys to make a poster and all the girls to write an essay","Allowing students to summarize a chapter with a poem, essay, or cartoon"],
+        "correct_answer":3,
+        "explanation": "The correct answer is {3}. Differentiated instruction allows students to show their understanding of the assignment using various products. {0} is incorrect because it is not a differentiation strategy. {1} is incorrect because assigning different chapters fom the same book does not differentiate instruction. {2} is incorrect because the students are not able to choose the presentation of their final product."
+      },
+      {
+        "question": "Patrick, a third-grade student, has recently been diagnosed with Tourette syndrome. Which of the following symptoms would Patrick most likely exhibit?",
+        "answers": ["Involuntary movements","Paralyzed legs","Loss of visual acuity","Hearing loss"],
+        "correct_answer":0,
+        "explanation": "The correct answer is {0}. Tourette syndrome is characterized by repetitive, involuntary movements and voalizations called tics. {1}, {2}, and {3} are incorrect because they are not symptoms of Tourette syndrome."
+      },
+      {
+        "question": "Jamie is a first-grade student with a specific learning disability (SLD) in the area of mathematics. The class is learning to solve addition problems. Which of the following accommodations would most likely be included in his individualized education program (IEP)?",
+        "answers": ["Permitting Jamie to use a calculator to solve word problems","Allowing Jamie to answer word problems verbally during tests","Allowing Jamie to use manipulatives to solve word problems","Reading problems to Jamie during tests"],
+        "correct_answer":2,
+        "explanation": "The correct answer is {2}. Using manipulatives in mathematics for elementary students gives them concrete ways to solve problems. {0} is incorrect because it is not developmentally appropriate. {1} is incorrect because there is no indication that she cannot write the answer down. {3} is incorrect because there is no indication that she cannot read the number problems."
+      },
+      {
+        "question": "The Individuals with Disabilities Education Act (IDEA) requires that early intervention services for infants and toddlers be delivered according to an Individualized Family Service Plan (IFSP). An IFSP and an IEP are similar yet contain important differences. Which of the following is exclusive to the IFSP?",
+        "answers": ["It includes a statement of the child's strengths and needs","It includes information on family support services, nutrition services, and case management","It includes projected dates for the beginning of each service, and where each service will take place","It includes a statement of the rights of parents or guardians to accept or decline any special education service or related service without jeopardizing any other service"],
+        "correct_answer":1,
+        "explanation": "The correct answer is {1}. In addition to the services provided in Part B of IDEA, the IFSP also includes information about family supportive services, nutrition servies, and case management. {0}, {2}, and {3} are incorrect because they refer to information that is included in both the IFSP and the IEP."
+      },
+      {
+        "question": "Which of the following actions will most likely facilitate productive communication between a special education teacher and a student's parents or guardians at a parent-teacher conference?",
+        "answers": ["The special education teacher sets the agenda and ensures that the student's parents adhere to the discussion points","The special education teacher conducts the conference using education jargon and technical language","The special education teacher discusses the student's academic strengths and offers suggestions for how the student can improve on weaknesses","The special education teacher instructs the parents on how to provide guidance to the student in a more consistent manner"],
+        "correct_answer":2,
+        "explanation": "The correct answer is {2}. If the teacher discusses the student's positive qualities first, the parents will be more willing to discuss dificulties and challenges. {0} is incorrect because there should be a conversational exchange between the teacher and the parents. {1} is incorrect because the use of jargon and technical language could intimidate parents, which would not foster trust and a good rapport. {3} is incorrect because pointing out inconsistencies in parenting could be seen as judgmental and might provoke anger and hostility."
+      },
+      {
+        "question": "Which of the following is an accurate statement about what IDEA requires for any IEP?",
+        "answers": ["The IEP must include a multiyear outline of instructional objectives","The IEP must include a section on assistive devices, regardless of the nature or degree of the student's disability","The IEP must be in effect before special education services or related services are provided","The IEP must not be made available to any school personnel except special education teachers"],
+        "correct_answer":2,
+        "explanation": "The correct answer is {2}. According to IDEA, an IEP must be in effect before special education and related servies are provided to an eligible student. None of the other choices is required. The objectives in an IEP are ordinarily for a single year, so {0} is not correct. {1} is not correct because what IDEA requires is that an IEP include a statement of the services and aids to be provided to the child. For some students with disabilities, this will include assistive devices, but many students with disabilities do not require such devices. Although special education teachers certainly have access to their students' IEPs, IDEA requires that regular education teachers and other service providers who are responsible for implementing a student's IEP have access to it as well, so {3} is not correct."
+      },
+      {
+        "question": "To promote the transfer of word attack skills to newspaper reading, a middle school teacher of students with mild intellectual disabilities is most likely to",
+        "answers": ["prepare teacher-made newspaper articles for the students to read","select articles from the local newspaper for students to read","develop writing exercises using words from the curriculum","prepare worksheet exercises based on single sentences from newspaper articles"],
+        "correct_answer":1,
+        "explanation": "The correct answer is {1}. One component of successful transfer of learning is the similarity between the situation on which a skill is learned and the situation to which it is to be applied. {0}, {2}, and {3} are not correct because they are activities that would most likely not promote word attack skills."
+      },
+      {
+        "question": "Jen, a sixth-grade student, receives special education services under the category of specific learning disability. Jen's IEP states that written assignments will be completed using word processing and speech recognition software. Which of the following is most likely to promote succesful use of assistive technology?",
+        "answers": ["Limiting the amount of written homework","Providing software for home use","Assigning keyboarding homework","Allowing choice of topic for written assignments"],
+        "correct_answer":1,
+        "explanation": "The correct answer is {1}. The student would be able to practice using the same programs at school and home, thus reinforcing her writing skills. {0} is incorrect because limiting homework does not help her to use the writing programs. {2} is incorrect because although typing practice is useful, it doe not help her to use the programs, one of which is voice recognition software and does not require typing. {3} is incorrect because the accommodation of choice will not promote more successful use of assistive technology."
+      },
+      {
+        "question": "Which of the following would be an important daily-living skill for a high school student with an intellectual disability?",
+        "answers": ["Knowing the multiplication table","Using a microwave oven","Identifiying the states on a map","Stating the main ida of a paragraph"],
+        "correct_answer":1,
+        "explanation": "The correct answer is {1}. Being able to heat up food would allow the student a measure of independence. {0}, {2}, and {3} are incorrect because they ar not daily-lving skills."
+      },
+      {
+        "question": "Which of the following supports is most likely to help Beth, a middle-school student with autism spectrum disorder (ASD), be successful in her new placement?",
+        "answers": ["Allowing Beth to attend school for a half-day for the first month","Providing Beth with a visual schedule of daily activities","Taking Beth on a tour of the school so that she can become familiar with the layout of the classrooms","Providing Beth with time away from her classmates when she has an outburst"],
+        "correct_answer":1,
+        "explanation": "The correct answer is {1}. Research has indicated that children with autism spectrum disorder prefer routines and structure in daily academic life. Using the visual schedule would help Beth anticipate the routine and become more accustomed to the new environment. {0} is incorrect because reducing a child's school attendance to a half-day would not help her adjust to the new environment. {2} is not correct because taking Beth on a tour of the school would be useful but it is not a long-term support like a visual schedule. {3} is not correct because providing time away would not help Beth adjust to her school. Instead, this would limit interactions with peers and teachers, which would inhibit the adjustment process."
+      }
     ]
   }
 }

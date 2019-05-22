@@ -41,27 +41,28 @@ function jsonCopy (src) {
 }
 module.exports = function (app) {
   app.get('/test/:id', function (req, res) {
-    console.log(req.params)
-    console.log(req.query)
+    // console.log(req.params)
+    // console.log(req.query)
     let temp = {}
     let allQ = jsonCopy(testJson)[req.params.id]
-    const reqQ = parseInt(req.query.q)
+    var reqQ = parseInt(req.query.q)
     console.log('allQ: ' + allQ['questions'].length + ' qQ: ' + reqQ)
     if (reqQ >= allQ['questions'].length) {
       console.log('if')
-      temp = allQ
-    } else {
-      let questions = []
-      let j = 0
-      let i = reqQ
-      while (i--) {
-        j = Math.floor(Math.random() * (i + 1))
-        questions.push(allQ['questions'][j])
-        allQ['questions'].splice(j, 1)
-      }
-      temp = allQ
-      temp['questions'] = questions
+      // temp = allQ
+      reqQ = allQ['questions'].length
     }
+    let questions = []
+    let j = 0
+    let i = reqQ
+    while (i--) {
+      j = Math.floor(Math.random() * (i + 1))
+      questions.push(allQ['questions'][j])
+      allQ['questions'].splice(j, 1)
+    }
+    temp = allQ
+    temp['questions'] = questions
+
     console.log('returning: ' + temp['questions'].length)
     res.header('Content-Type', 'application/json')
     res.status(200).json(temp)
